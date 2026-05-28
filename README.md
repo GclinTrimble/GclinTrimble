@@ -49,16 +49,9 @@ Civil construction and surveying have lived in silos for decades. The **design t
 
 A **Federated Digital Twin** changes that. Instead of one monolithic model, it's a mesh of specialized twins that share a common semantic layer and a single source of geospatial truth:
 
-```text
-   ┌──────────────┐     ┌──────────────┐     ┌──────────────┐     ┌──────────────┐
-   │  DESIGN TWIN │ ──▶ │  SURVEY TWIN │ ──▶ │  BUILD TWIN  │ ──▶ │  ASSET TWIN  │
-   │   BIM · CAD  │     │  Ground truth│     │  Machine ops │     │  As-built ·  │
-   │   3D Models  │     │  Drone · GNSS│     │  Field exec  │     │  Operations  │
-   └──────┬───────┘     └──────┬───────┘     └──────┬───────┘     └──────┬───────┘
-          │                    │                    │                    │
-          └────────────────────┴──── SHARED SEMANTIC LAYER ──────────────┘
-                                 (geometry · classifications · coordinates · provenance)
-```
+<p align="center">
+  <img src="./assets/simsite-2000-banner.svg" alt="Guillaume Clin — Blueprint Header" width="100%" />
+</p>
 
 ### Why this matters in **surveying + civil construction**
 
