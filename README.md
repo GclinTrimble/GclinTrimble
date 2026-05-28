@@ -90,6 +90,41 @@ The goal isn't "more data." It's **fewer surprises**, **faster decisions**, and 
 
 </details>
 
+### 📰 Featured Writing
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.linkedin.com/pulse/system-aoteroa-infrastructure-guillaume-clin-mqlsc/?trackingId=YLmIjVV1SFqSSy7phUCobA%3D%3D">
+        <img src="./assets/A System of System for Aoteroa Infrastructure by Guillaume Clin.png" width="100%" alt="A System of System for Aoteroa Infrastructure" />
+        <br/><br/>
+        <b>A "System of System" for Aoteroa Infrastructure</b>
+      </a>
+      <br/><sub>Te Waihanga | The New Zealand Infrastructure Commission recently...</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.linkedin.com/pulse/connected-data-civil-construction-examination-cde-ecosystems-clin-xthyc/?trackingId=YLmIjVV1SFqSSy7phUCobA%3D%3D">
+        <img src="./assets/Connected%20Data%20in%20Civil%20Construction%20An%20Examination%20of%20CDE%20Connected%20Environments%20Ecosystems%20and%20Trimble%20s%20Role%20by%20Guillaume%20Clin.png" width="100%" alt="Connected Data in Civil Construction" />
+        <br/><br/>
+        <b>Connected Data in Civil Construction: An Examination of CDE, Connected Environments, Ecosystems, and Trimble's Role</b>
+      </a>
+      <br/><sub>The civil construction industry operates within an increasingly...</sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://www.linkedin.com/pulse/civil-construction-terrain-aggregation-surface-data-connected-clin-oebtc/?trackingId=YLmIjVV1SFqSSy7phUCobA%3D%3D">
+        <img src="./assets/Civil%20Construction%20Terrain%20and%20the%20Aggregation%20of%20Surface%20Data%20for%20a%20Connected%20Ecosystem%20by%20Guillaume%20Clin.jpg" width="100%" alt="Civil Construction Terrain and the Aggregation of Surface Data" />
+        <br/><br/>
+        <b>Civil Construction Terrain and the Aggregation of Surface Data for a Connected Ecosystem</b>
+      </a>
+      <br/><sub>The civil construction industry operates within an increasingly...</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="right">
+  <a href="https://www.linkedin.com/in/guillaume-clin/recent-activity/articles/"><sub>→ See all articles on LinkedIn</sub></a>
+</p>
+
 ---
 
 ## `§ 04 — PERFORMANCE METRICS`
