@@ -5,21 +5,11 @@
   Palette: #0B2545 (navy) · #8ECAE6 (cyan) · #FFB703 (drafting amber) · #F2F8FF (paper)
   ────────────────────────────────────────────────────────────────────────────
 -->
+## `§ 01 — IDENTIFICATION`
 
 <p align="center">
   <img src="./assets/blueprint-header.svg" alt="Guillaume Clin — Blueprint Header" width="100%" />
 </p>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1100&color=8ECAE6&center=true&vCenter=true&random=false&width=820&lines=%2F%2F+Drafting+the+Federated+Digital+Twin;Design+%E2%9F%B6+Machines+%E2%9F%B6+Field+%E2%9F%B6+Asset;Surveying+the+seam+between+atoms+and+bits;Hello%2C+Built+World." alt="Typing SVG" />
-  </a>
-</p>
-
----
-
-## `§ 01 — IDENTIFICATION`
-
 
 ```yaml
 project:        🏗️ $$Federated Digital Twin** · Civil Construction
@@ -31,6 +21,12 @@ status:         [▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░] 8
 Voice:          🎙️ **Public talks & content** on digital twins for the built world — see [YouTube channel](https://www.youtube.com/@Guillaume.Clin_Trimble).
 mission:        🤝 **Shipped the federated layer** that lets surveying data update design models and machine guidance in the same workday — closing the design ↔ field loop end-to-end.
 ```
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1100&color=8ECAE6&center=true&vCenter=true&random=false&width=820&lines=%2F%2F+Drafting+the+Federated+Digital+Twin;Design+%E2%9F%B6+Machines+%E2%9F%B6+Field+%E2%9F%B6+Asset;Surveying+the+seam+between+atoms+and+bits;Hello%2C+Built+World." alt="Typing SVG" />
+  </a>
+</p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/guillaume-clin/"><img src="https://img.shields.io/badge/LINKEDIN-0B2545?style=for-the-badge&logo=linkedin&logoColor=8ECAE6&labelColor=0B2545" /></a>
   <a href="https://www.youtube.com/@Guillaume.Clin_Trimble"><img src="https://img.shields.io/badge/YOUTUBE-0B2545?style=for-the-badge&logo=youtube&logoColor=FFB703&labelColor=0B2545" /></a>
@@ -96,7 +92,7 @@ The goal isn't "more data." It's **fewer surprises**, **faster decisions**, and 
   <tr>
     <td align="center" width="33%">
       <a href="https://www.linkedin.com/pulse/system-aoteroa-infrastructure-guillaume-clin-mqlsc/?trackingId=YLmIjVV1SFqSSy7phUCobA%3D%3D">
-        <img src="./assets/A%20system%20of%20System%20for%20Aoteroa%20by%20Guillaume%20Clin.jpg" width="100%" alt="A System of System for Aoteroa Infrastructure" />
+        <img src="./assets/A System of System for Aoteroa Infrastructure by Guillaume Clin.png" width="100%" alt="A System of System for Aoteroa Infrastructure" />
         <br/><br/>
         <b>A "System of System" for Aoteroa Infrastructure</b>
       </a>
