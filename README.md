@@ -7,10 +7,6 @@
 -->
 ## `§ 01 — IDENTIFICATION`
 
-<p align="center">
-  <img src="./assets/blueprint-header.svg" alt="Guillaume Clin — Blueprint Header" width="100%" />
-</p>
-
 ```yaml
 project:        🏗️ $$Federated Digital Twin** · Civil Construction
 discipline:     📐 **Product Management** · Cloud · Geospatial Intelligence
@@ -21,6 +17,10 @@ status:         [▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░] 8
 Voice:          🎙️ **Public talks & content** on digital twins for the built world — see [YouTube channel](https://www.youtube.com/@Guillaume.Clin_Trimble).
 mission:        🤝 **Shipped the federated layer** that lets surveying data update design models and machine guidance in the same workday — closing the design ↔ field loop end-to-end.
 ```
+<p align="center">
+  <img src="./assets/blueprint-header.svg" alt="Guillaume Clin — Blueprint Header" width="100%" />
+</p>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1100&color=8ECAE6&center=true&vCenter=true&random=false&width=820&lines=%2F%2F+Drafting+the+Federated+Digital+Twin;Design+%E2%9F%B6+Machines+%E2%9F%B6+Field+%E2%9F%B6+Asset;Surveying+the+seam+between+atoms+and+bits;Hello%2C+Built+World." alt="Typing SVG" />
@@ -61,6 +61,50 @@ The goal isn't "more data." It's **fewer surprises**, **faster decisions**, and 
 
 ## `§ 03 — METHODS & MATERIALS`
 
+### 📰 Featured Writing
+
+<table>
+  <tr>
+    <td valign="top" width="33%">
+      <a href="https://www.linkedin.com/pulse/system-aoteroa-infrastructure-guillaume-clin-mqlsc/?trackingId=YLmIjVV1SFqSSy7phUCobA%3D%3D">
+        <img src="./assets/A%20system%20of%20System%20for%20Aoteroa%20by%20Guillaume%20Clin.jpg" width="100%" alt="A System of System for Aoteroa Infrastructure" />
+      </a>
+      <br/>
+      <a href="https://www.linkedin.com/pulse/system-aoteroa-infrastructure-guillaume-clin-mqlsc/?trackingId=YLmIjVV1SFqSSy7phUCobA%3D%3D"><b>A "System of System" for Aoteroa Infrastructure</b></a>
+      <br/>
+      <sub>Te Waihanga | The New Zealand Infrastructure Commission recently explored what a federated infrastructure system could look like.</sub>
+      <br/><br/>
+      <sub>by Guillaume Clin &nbsp;·&nbsp; 6 min read</sub>
+    </td>
+    <td valign="top" width="33%">
+      <a href="https://www.linkedin.com/pulse/connected-data-civil-construction-examination-cde-ecosystems-clin-xthyc/?trackingId=YLmIjVV1SFqSSy7phUCobA%3D%3D">
+        <img src="./assets/Connected%20Data%20in%20Civil%20Construction%20An%20Examination%20of%20CDE%20Connected%20Environments%20Ecosystems%20and%20Trimble%20s%20Role%20by%20Guillaume%20Clin.png" width="100%" alt="Connected Data in Civil Construction" />
+      </a>
+      <br/>
+      <a href="https://www.linkedin.com/pulse/connected-data-civil-construction-examination-cde-ecosystems-clin-xthyc/?trackingId=YLmIjVV1SFqSSy7phUCobA%3D%3D"><b>Connected Data in Civil Construction: An Examination of CDE, Connected Environments & Trimble's Role</b></a>
+      <br/>
+      <sub>The civil construction industry operates within an increasingly connected ecosystem of data, tools, and platforms.</sub>
+      <br/><br/>
+      <sub>by Guillaume Clin &nbsp;·&nbsp; 13 min read</sub>
+    </td>
+    <td valign="top" width="33%">
+      <a href="https://www.linkedin.com/pulse/civil-construction-terrain-aggregation-surface-data-connected-clin-oebtc/?trackingId=YLmIjVV1SFqSSy7phUCobA%3D%3D">
+        <img src="./assets/Civil%20Construction%20Terrain%20and%20the%20Aggregation%20of%20Surface%20Data%20for%20a%20Connected%20Ecosystem%20by%20Guillaume%20Clin.jpg" width="100%" alt="Civil Construction Terrain and the Aggregation of Surface Data" />
+      </a>
+      <br/>
+      <a href="https://www.linkedin.com/pulse/civil-construction-terrain-aggregation-surface-data-connected-clin-oebtc/?trackingId=YLmIjVV1SFqSSy7phUCobA%3D%3D"><b>Civil Construction Terrain and the Aggregation of Surface Data for a Connected Ecosystem</b></a>
+      <br/>
+      <sub>The civil construction industry operates within an increasingly complex landscape of geospatial and terrain data.</sub>
+      <br/><br/>
+      <sub>by Guillaume Clin &nbsp;·&nbsp; 10 min read</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="right">
+  <a href="https://www.linkedin.com/in/guillaume-clin/recent-activity/articles/"><sub>→ See all articles on LinkedIn</sub></a>
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/-CLOUD_ARCHITECTURE-8ECAE6?style=for-the-badge&logo=icloud&logoColor=0B2545&labelColor=0B2545" />
   <img src="https://img.shields.io/badge/-DIGITAL_TWIN-FFB703?style=for-the-badge&logo=unrealengine&logoColor=0B2545&labelColor=0B2545" />
@@ -70,55 +114,6 @@ The goal isn't "more data." It's **fewer surprises**, **faster decisions**, and 
   <img src="https://img.shields.io/badge/-AI%2FML-F2F8FF?style=for-the-badge&logo=openai&logoColor=0B2545&labelColor=0B2545" />
   <img src="https://img.shields.io/badge/-PRODUCT_STRATEGY-FFD166?style=for-the-badge&logo=producthunt&logoColor=0B2545&labelColor=0B2545" />
   <img src="https://img.shields.io/badge/-IoT_%26_TELEMETRY-8ECAE6?style=for-the-badge&logo=mqtt&logoColor=0B2545&labelColor=0B2545" />
-</p>
-
-<details>
-<summary><b>📐 Click to expand the full toolchain</b></summary>
-
-| Layer | What I touch | Why it matters |
-| :--- | :--- | :--- |
-| **Design** | BIM (IFC/Revit), CAD, parametric models | The source of truth for *intent* |
-| **Survey** | GNSS, total stations, drones, photogrammetry, LiDAR | The source of truth for *reality* |
-| **Cloud** | AWS, event-driven architectures, geospatial pipelines | The connective tissue |
-| **AI** | Vision models, point-cloud classification, LLM tooling | Turning sensor noise into signal |
-| **Field** | Machine control, mixed reality, mobile capture | Where the rubber meets the road — literally |
-| **Strategy** | Roadmaps, JTBD, opportunity sizing, GTM | Making sure we build the right thing, not just things right |
-
-</details>
-
-### 📰 Featured Writing
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://www.linkedin.com/pulse/system-aoteroa-infrastructure-guillaume-clin-mqlsc/?trackingId=YLmIjVV1SFqSSy7phUCobA%3D%3D">
-        <img src="./assets/A%20system%20of%20System%20for%20Aoteroa%20by%20Guillaume%20Clin.jpg" width="100%" alt="A System of System for Aoteroa Infrastructure" />
-        <br/><br/>
-        <b>A "System of System" for Aoteroa Infrastructure</b>
-      </a>
-      <br/><sub>Te Waihanga | The New Zealand Infrastructure Commission recently...</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://www.linkedin.com/pulse/connected-data-civil-construction-examination-cde-ecosystems-clin-xthyc/?trackingId=YLmIjVV1SFqSSy7phUCobA%3D%3D">
-        <img src="./assets/Connected%20Data%20in%20Civil%20Construction%20An%20Examination%20of%20CDE%20Connected%20Environments%20Ecosystems%20and%20Trimble%20s%20Role%20by%20Guillaume%20Clin.png" width="100%" alt="Connected Data in Civil Construction" />
-        <br/><br/>
-        <b>Connected Data in Civil Construction: An Examination of CDE, Connected Environments, Ecosystems, and Trimble's Role</b>
-      </a>
-      <br/><sub>The civil construction industry operates within an increasingly...</sub>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://www.linkedin.com/pulse/civil-construction-terrain-aggregation-surface-data-connected-clin-oebtc/?trackingId=YLmIjVV1SFqSSy7phUCobA%3D%3D">
-        <img src="./assets/Civil%20Construction%20Terrain%20and%20the%20Aggregation%20of%20Surface%20Data%20for%20a%20Connected%20Ecosystem%20by%20Guillaume%20Clin.jpg" width="100%" alt="Civil Construction Terrain and the Aggregation of Surface Data" />
-        <br/><br/>
-        <b>Civil Construction Terrain and the Aggregation of Surface Data for a Connected Ecosystem</b>
-      </a>
-      <br/><sub>The civil construction industry operates within an increasingly...</sub>
-    </td>
-  </tr>
-</table>
-
-<p align="right">
-  <a href="https://www.linkedin.com/in/guillaume-clin/recent-activity/articles/"><sub>→ See all articles on LinkedIn</sub></a>
 </p>
 
 ---
