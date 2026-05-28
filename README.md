@@ -19,7 +19,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/guillaume-clin/"><img src="https://img.shields.io/badge/LINKEDIN-0B2545?style=for-the-badge&logo=linkedin&logoColor=8ECAE6&labelColor=0B2545" /></a>
   <a href="https://www.youtube.com/@Guillaume.Clin_Trimble"><img src="https://img.shields.io/badge/YOUTUBE-0B2545?style=for-the-badge&logo=youtube&logoColor=FFB703&labelColor=0B2545" /></a>
-  <a href="mailto:guillaume_clin@trimble.com"><img src="https://img.shields.io/badge/EMAIL-0B2545?style=for-the-badge&logo=protonmail&logoColor=F2F8FF&labelColor=0B2545" /></a>
   <a href="https://github.com/GclinTrimble"><img src="https://komarev.com/ghpvc/?username=GclinTrimble&label=PROFILE+VIEWS&color=8ECAE6&style=for-the-badge&base=1000" /></a>
 </p>
 
@@ -31,12 +30,19 @@
 project:        Federated Digital Twin · Civil Construction
 discipline:     Product Management · Cloud · Geospatial Intelligence
 drawn_by:       Guillaume Clin
-employer:       Trimble — building the connected jobsite
+employer:       Trimble — building the Digital Site Management
 scale:          Global · Multi-site · Multi-domain
 status:         [▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░] 87% caffeinated
-location:       > intersection of product, engineering, and the built world
+location:       > intersection of product development, construction, and the built world
 mission:        Turn messy field reality into clean, usable intelligence.
 ```
+
+- 🏗️ **Shipped the federated layer** that lets surveying data update design models and machine guidance in the same workday — closing the design ↔ field loop end-to-end.
+- 📐 **Cut survey-to-design latency** on early-access sites by federating GNSS streams into the design twin.
+- 🛰️ **Launched cloud-based intelligence** for civil construction workflows.
+- 🧠 **Stood up the AI scaffolding** that turns drone photogrammetry into classified, query-able as-built data, no manual tagging required.
+- 🎙️ **Public talks & content** on digital twins for the built world — see [YouTube channel](https://www.youtube.com/@Guillaume.Clin_Trimble).
+- 🤝 **Built the bridge** between engineering, GTM, and field operators so the roadmap reflects what crews actually need at 6am on a Tuesday.
 
 > **TL;DR —** I build the cloud tools that move dirt, pour concrete, and tie the design model to the bulldozer.
 > Then I make sure the data that comes back makes the *next* project smarter.
@@ -95,27 +101,11 @@ The goal isn't "more data." It's **fewer surprises**, **faster decisions**, and 
 
 ## `§ 04 — PERFORMANCE METRICS`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GclinTrimble&show_icons=true&hide_border=true&bg_color=0B2545&title_color=8ECAE6&icon_color=FFB703&text_color=F2F8FF&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GclinTrimble&hide_border=true&background=0B2545&stroke=8ECAE6&ring=FFB703&fire=FFB703&currStreakLabel=8ECAE6&sideLabels=F2F8FF&currStreakNum=F2F8FF&sideNums=F2F8FF&dates=8ECAE6" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GclinTrimble&layout=compact&hide_border=true&bg_color=0B2545&title_color=8ECAE6&text_color=F2F8FF&langs_count=8" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GclinTrimble&theme=nord_dark" height="180" />
-</p>
-
-### Activity over time
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GclinTrimble&bg_color=0B2545&color=8ECAE6&line=FFB703&point=F2F8FF&area=true&area_color=4FC3F7&hide_border=true&custom_title=Contribution+Graph+%E2%80%94+Survey+Log" width="98%" />
-</p>
-
-### Contribution surveyor
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/GclinTrimble/GclinTrimble/output/github-contribution-grid-snake-dark.svg" width="98%" alt="Snake animation traversing the contribution grid" />
 </p>
+
 
 ### Trophy cabinet
 
@@ -136,27 +126,15 @@ The goal isn't "more data." It's **fewer surprises**, **faster decisions**, and 
 > *(swap in real numbers / launches as they ship — placeholders mark where to edit)*
 
 - 🏗️ **Shipped the federated layer** that lets surveying data update design models and machine guidance in the same workday — closing the design ↔ field loop end-to-end.
-- 📐 **Cut survey-to-design latency** from `[days]` to `[hours]` on early-access sites by federating GNSS streams into the design twin.
-- 🛰️ **Launched cloud-based intelligence** for `[N]` civil construction workflows — adopted across `[N+]` sites globally.
+- 📐 **Cut survey-to-design latency** on early-access sites by federating GNSS streams into the design twin.
+- 🛰️ **Launched cloud-based intelligence** for civil construction workflows.
 - 🧠 **Stood up the AI scaffolding** that turns drone photogrammetry into classified, query-able as-built data, no manual tagging required.
 - 🎙️ **Public talks & content** on digital twins for the built world — see [YouTube channel](https://www.youtube.com/@Guillaume.Clin_Trimble).
 - 🤝 **Built the bridge** between engineering, GTM, and field operators so the roadmap reflects what crews actually need at 6am on a Tuesday.
 
 ---
 
-## `§ 06 — CURRENT JOB QUEUE`
-
-```text
-[ ✓ ] Federated semantic layer · v1 in production
-[ ▶ ] Construction-to-asset handover automation
-[ ▶ ] AI assistant for survey data QA
-[ ▷ ] Carbon accounting linked to machine telemetry
-[   ] Public reference architecture (writing — slowly)
-```
-
----
-
-## `§ 07 — NOW PLAYING`
+## `§ 06 — NOW PLAYING`
 
 <p align="center">
   <a href="https://open.spotify.com/user/GclinTrimble">
@@ -168,7 +146,7 @@ The goal isn't "more data." It's **fewer surprises**, **faster decisions**, and 
 
 ---
 
-## `§ 08 — CONTACT BLOCK`
+## `§ 07 — CONTACT BLOCK`
 
 <table align="center">
   <tr>
@@ -192,6 +170,11 @@ The goal isn't "more data." It's **fewer surprises**, **faster decisions**, and 
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GclinTrimble&layout=compact&hide_border=true&bg_color=0B2545&title_color=8ECAE6&text_color=F2F8FF&langs_count=8" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GclinTrimble&theme=nord_dark" height="180" />
+</p>
 
 ---
 
