@@ -1,0 +1,532 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 500" width="1200" height="500" font-family="'JetBrains Mono', monospace">
+  <defs>
+    <!-- ==== PALETTE ====
+      Navy:   #0B2545  (deep navy - sky, shadows)
+      Cyan:   #8ECAE6  (twin / data / wireframes)
+      Amber:  #FFB703  (equipment, highlights)
+      Paper:  #F2F8FF  (text, paper white)
+    -->
+
+    <!-- Sky: navy with soft amber horizon -->
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0B2545"/>
+      <stop offset="70%" stop-color="#1d3a60"/>
+      <stop offset="100%" stop-color="#FFB703" stop-opacity="0.35"/>
+    </linearGradient>
+
+    <!-- Ground: navy-tinted -->
+    <linearGradient id="ground" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1d3a60"/>
+      <stop offset="100%" stop-color="#0B2545"/>
+    </linearGradient>
+
+    <!-- Dirt / stockpile in amber tones -->
+    <linearGradient id="dirtLight" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFB703"/>
+      <stop offset="100%" stop-color="#a87800"/>
+    </linearGradient>
+    <linearGradient id="dirtDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#8a6200"/>
+      <stop offset="100%" stop-color="#3d2800"/>
+    </linearGradient>
+
+    <!-- Cut zone -->
+    <linearGradient id="cutZone" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0B2545"/>
+      <stop offset="100%" stop-color="#050f1f"/>
+    </linearGradient>
+
+    <!-- Equipment amber -->
+    <linearGradient id="eqLight" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFB703"/>
+      <stop offset="100%" stop-color="#c98e00"/>
+    </linearGradient>
+    <linearGradient id="eqDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#c98e00"/>
+      <stop offset="100%" stop-color="#6a4a00"/>
+    </linearGradient>
+
+    <!-- Building concrete (paper white tones) -->
+    <linearGradient id="concLight" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#F2F8FF"/>
+      <stop offset="100%" stop-color="#8ECAE6" stop-opacity="0.6"/>
+    </linearGradient>
+    <linearGradient id="concDark" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#8ECAE6"/>
+      <stop offset="100%" stop-color="#0B2545"/>
+    </linearGradient>
+    <linearGradient id="concTop" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#F2F8FF"/>
+      <stop offset="100%" stop-color="#c4dbf0"/>
+    </linearGradient>
+
+    <!-- Glow filters -->
+    <filter id="cyanGlow">
+      <feGaussianBlur stdDeviation="1.4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="amberGlow">
+      <feGaussianBlur stdDeviation="1.8" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <!-- CRT scanlines -->
+    <pattern id="scanlines" width="2" height="3" patternUnits="userSpaceOnUse">
+      <rect width="2" height="2" fill="transparent"/>
+      <rect y="2" width="2" height="1" fill="#000" opacity="0.16"/>
+    </pattern>
+
+    <!-- Sun -->
+    <radialGradient id="sun">
+      <stop offset="0%" stop-color="#F2F8FF"/>
+      <stop offset="60%" stop-color="#FFB703"/>
+      <stop offset="100%" stop-color="#FFB703" stop-opacity="0"/>
+    </radialGradient>
+
+    <radialGradient id="vignette">
+      <stop offset="55%" stop-color="#000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0.55"/>
+    </radialGradient>
+
+    <!-- Dust -->
+    <radialGradient id="dust">
+      <stop offset="0%" stop-color="#FFB703" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#FFB703" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Drone propeller blur -->
+    <radialGradient id="prop">
+      <stop offset="0%" stop-color="#F2F8FF" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#F2F8FF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- ============== SKY ============== -->
+  <rect width="1200" height="290" fill="url(#sky)"/>
+
+  <!-- Hazy sun -->
+  <circle cx="950" cy="190" r="60" fill="url(#sun)" opacity="0.9"/>
+  <circle cx="950" cy="190" r="30" fill="#FFB703" opacity="0.85"/>
+
+  <!-- Distant hills -->
+  <path d="M 0 270 L 110 235 L 200 260 L 310 220 L 420 255 L 540 225 L 660 260 L 780 230 L 900 258 L 1020 228 L 1130 252 L 1200 235 L 1200 290 L 0 290 Z" fill="#0B2545" opacity="0.85"/>
+
+  <!-- Construction tower crane (left BG) -->
+  <g stroke="#0B2545" stroke-width="1.5" fill="#FFB703" opacity="0.85">
+    <rect x="180" y="80" width="5" height="190"/>
+    <line x1="180" y1="110" x2="185" y2="140" stroke="#0B2545" stroke-width="0.8"/>
+    <line x1="185" y1="110" x2="180" y2="140" stroke="#0B2545" stroke-width="0.8"/>
+    <line x1="180" y1="160" x2="185" y2="190" stroke="#0B2545" stroke-width="0.8"/>
+    <line x1="185" y1="160" x2="180" y2="190" stroke="#0B2545" stroke-width="0.8"/>
+    <line x1="180" y1="210" x2="185" y2="240" stroke="#0B2545" stroke-width="0.8"/>
+    <line x1="185" y1="210" x2="180" y2="240" stroke="#0B2545" stroke-width="0.8"/>
+    <rect x="80" y="76" width="240" height="4"/>
+    <rect x="120" y="62" width="60" height="3"/>
+    <line x1="120" y1="65" x2="80" y2="76" stroke="#0B2545" stroke-width="0.8"/>
+    <line x1="180" y1="65" x2="180" y2="76" stroke="#0B2545" stroke-width="0.8"/>
+    <line x1="260" y1="80" x2="260" y2="150" stroke="#0B2545" stroke-width="1.2"/>
+    <rect x="255" y="150" width="10" height="7" fill="#0B2545"/>
+  </g>
+
+  <!-- ============== DRONES ============== -->
+  <!-- Drone 1: surveying drone with LIDAR cone -->
+  <g>
+    <g>
+      <animateTransform attributeName="transform" type="translate"
+        values="360,110; 620,100; 850,115; 620,100; 360,110" dur="22s" repeatCount="indefinite"/>
+      <rect x="-10" y="-2" width="20" height="4" fill="#F2F8FF"/>
+      <rect x="-2" y="-5" width="4" height="10" fill="#F2F8FF"/>
+      <line x1="-10" y1="0" x2="-16" y2="-6" stroke="#F2F8FF" stroke-width="1.5"/>
+      <line x1="10" y1="0" x2="16" y2="-6" stroke="#F2F8FF" stroke-width="1.5"/>
+      <line x1="-10" y1="0" x2="-16" y2="6" stroke="#F2F8FF" stroke-width="1.5"/>
+      <line x1="10" y1="0" x2="16" y2="6" stroke="#F2F8FF" stroke-width="1.5"/>
+      <ellipse cx="-16" cy="-6" rx="6" ry="1.5" fill="url(#prop)"/>
+      <ellipse cx="16" cy="-6" rx="6" ry="1.5" fill="url(#prop)"/>
+      <ellipse cx="-16" cy="6" rx="6" ry="1.5" fill="url(#prop)"/>
+      <ellipse cx="16" cy="6" rx="6" ry="1.5" fill="url(#prop)"/>
+      <circle cx="0" cy="0" r="1.5" fill="#FFB703">
+        <animate attributeName="opacity" values="1;0.2;1" dur="0.8s" repeatCount="indefinite"/>
+      </circle>
+      <!-- LIDAR scan cone -->
+      <path d="M -3 4 L -34 70 L 34 70 L 3 4 Z" fill="#8ECAE6" opacity="0.18"/>
+      <line x1="-3" y1="4" x2="-34" y2="70" stroke="#8ECAE6" stroke-width="0.6" opacity="0.7"/>
+      <line x1="3" y1="4" x2="34" y2="70" stroke="#8ECAE6" stroke-width="0.6" opacity="0.7"/>
+      <line x1="-22" y1="48" x2="22" y2="48" stroke="#8ECAE6" stroke-width="0.4" opacity="0.55"/>
+      <line x1="-28" y1="58" x2="28" y2="58" stroke="#8ECAE6" stroke-width="0.4" opacity="0.55"/>
+    </g>
+  </g>
+
+  <!-- Drone 2: inspection drone near building -->
+  <g>
+    <g>
+      <animateTransform attributeName="transform" type="translate"
+        values="930,170; 980,150; 1030,175; 980,150; 930,170" dur="16s" repeatCount="indefinite"/>
+      <rect x="-7" y="-1.5" width="14" height="3" fill="#F2F8FF"/>
+      <rect x="-1.5" y="-3.5" width="3" height="7" fill="#F2F8FF"/>
+      <line x1="-7" y1="0" x2="-12" y2="-4" stroke="#F2F8FF" stroke-width="1.2"/>
+      <line x1="7" y1="0" x2="12" y2="-4" stroke="#F2F8FF" stroke-width="1.2"/>
+      <line x1="-7" y1="0" x2="-12" y2="4" stroke="#F2F8FF" stroke-width="1.2"/>
+      <line x1="7" y1="0" x2="12" y2="4" stroke="#F2F8FF" stroke-width="1.2"/>
+      <ellipse cx="-12" cy="-4" rx="5" ry="1.2" fill="url(#prop)"/>
+      <ellipse cx="12" cy="-4" rx="5" ry="1.2" fill="url(#prop)"/>
+      <ellipse cx="-12" cy="4" rx="5" ry="1.2" fill="url(#prop)"/>
+      <ellipse cx="12" cy="4" rx="5" ry="1.2" fill="url(#prop)"/>
+      <circle cx="0" cy="0" r="1.2" fill="#FFB703">
+        <animate attributeName="opacity" values="1;0.2;1" dur="1.2s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+  </g>
+
+  <!-- ============== GROUND ============== -->
+  <rect y="290" width="1200" height="210" fill="url(#ground)"/>
+
+  <!-- Isometric site grid (cyan) -->
+  <g stroke="#8ECAE6" stroke-width="0.5" opacity="0.18" fill="none">
+    <line x1="0" y1="290" x2="1200" y2="450"/>
+    <line x1="0" y1="320" x2="1200" y2="480"/>
+    <line x1="0" y1="350" x2="1200" y2="500"/>
+    <line x1="0" y1="380" x2="900" y2="500"/>
+    <line x1="0" y1="410" x2="600" y2="500"/>
+    <line x1="0" y1="440" x2="300" y2="500"/>
+    <line x1="1200" y1="290" x2="0" y2="450"/>
+    <line x1="1200" y1="320" x2="0" y2="480"/>
+    <line x1="1200" y1="350" x2="0" y2="500"/>
+    <line x1="1200" y1="380" x2="300" y2="500"/>
+    <line x1="1200" y1="410" x2="600" y2="500"/>
+    <line x1="1200" y1="440" x2="900" y2="500"/>
+  </g>
+
+  <!-- ============== CUT ZONE ============== -->
+  <g>
+    <polygon points="90,380 170,360 280,375 320,415 240,440 130,425" fill="url(#cutZone)"/>
+    <polygon points="90,380 170,360 170,368 90,388" fill="#050f1f" opacity="0.8"/>
+    <polygon points="170,360 280,375 280,383 170,368" fill="#050f1f" opacity="0.8"/>
+    <polygon points="280,375 320,415 312,419 272,379" fill="#050f1f" opacity="0.8"/>
+    <polygon points="110,390 265,390 305,415 235,432 140,420" fill="#020608"/>
+    <!-- Cut callout -->
+    <line x1="130" y1="425" x2="130" y2="448" stroke="#FFB703" stroke-width="1.5"/>
+    <line x1="130" y1="448" x2="148" y2="448" stroke="#FFB703" stroke-width="1.5"/>
+    <text x="152" y="451" fill="#FFB703" font-size="10" font-weight="bold">CUT -2.4m</text>
+  </g>
+
+  <!-- ============== FILL ZONE ============== -->
+  <g>
+    <polygon points="940,400 1040,385 1120,400 1100,430 1000,438 920,420" fill="url(#dirtLight)"/>
+    <polygon points="940,400 1040,385 1120,400 1040,393" fill="url(#dirtDark)" opacity="0.5"/>
+    <ellipse cx="1020" cy="410" rx="45" ry="3" fill="#3d2800" opacity="0.5"/>
+    <ellipse cx="1020" cy="418" rx="42" ry="2.5" fill="#3d2800" opacity="0.5"/>
+    <line x1="1125" y1="400" x2="1148" y2="400" stroke="#8ECAE6" stroke-width="1.5"/>
+    <line x1="1148" y1="400" x2="1148" y2="383" stroke="#8ECAE6" stroke-width="1.5"/>
+    <text x="1128" y="378" fill="#8ECAE6" font-size="10" font-weight="bold">FILL +1.8m</text>
+  </g>
+
+  <!-- ============== STOCKPILES ============== -->
+  <!-- Large stockpile -->
+  <g>
+    <ellipse cx="500" cy="415" rx="80" ry="12" fill="#0B2545" opacity="0.6"/>
+    <path d="M 500 325 L 425 410 L 500 425 L 575 410 Z" fill="url(#dirtLight)"/>
+    <path d="M 500 325 L 575 410 L 500 425 Z" fill="url(#dirtDark)"/>
+    <g fill="#3d2800" opacity="0.7">
+      <rect x="455" y="380" width="3" height="3"/>
+      <rect x="470" y="370" width="2" height="2"/>
+      <rect x="485" y="390" width="3" height="3"/>
+      <rect x="440" y="400" width="2" height="2"/>
+      <rect x="515" y="385" width="3" height="3"/>
+      <rect x="535" y="375" width="2" height="2"/>
+      <rect x="555" y="400" width="3" height="3"/>
+    </g>
+    <g fill="#F2F8FF" opacity="0.5">
+      <rect x="450" y="395" width="2" height="2"/>
+      <rect x="480" y="385" width="2" height="2"/>
+      <rect x="500" y="365" width="2" height="2"/>
+      <rect x="525" y="390" width="2" height="2"/>
+    </g>
+    <line x1="500" y1="325" x2="500" y2="305" stroke="#8ECAE6" stroke-width="1" stroke-dasharray="3 2" opacity="0.9"/>
+    <circle cx="500" cy="325" r="2.5" fill="#8ECAE6" filter="url(#cyanGlow)">
+      <animate attributeName="opacity" values="1;0.4;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <rect x="512" y="288" width="92" height="24" fill="#0B2545" opacity="0.85" stroke="#8ECAE6" stroke-width="0.8"/>
+    <text x="518" y="300" fill="#8ECAE6" font-size="9" font-weight="bold">STOCKPILE_A</text>
+    <text x="518" y="310" fill="#FFB703" font-size="8">VOL: 1,247 m³</text>
+  </g>
+
+  <!-- Small stockpile -->
+  <g>
+    <ellipse cx="710" cy="445" rx="48" ry="8" fill="#0B2545" opacity="0.6"/>
+    <path d="M 710 390 L 665 440 L 710 452 L 755 440 Z" fill="url(#dirtLight)"/>
+    <path d="M 710 390 L 755 440 L 710 452 Z" fill="url(#dirtDark)"/>
+    <g fill="#3d2800" opacity="0.7">
+      <rect x="685" y="420" width="2" height="2"/>
+      <rect x="705" y="410" width="2" height="2"/>
+      <rect x="725" y="425" width="2" height="2"/>
+    </g>
+    <line x1="710" y1="390" x2="710" y2="372" stroke="#8ECAE6" stroke-width="1" stroke-dasharray="3 2" opacity="0.9"/>
+    <circle cx="710" cy="390" r="2" fill="#8ECAE6" filter="url(#cyanGlow)">
+      <animate attributeName="opacity" values="1;0.4;1" dur="2.3s" repeatCount="indefinite"/>
+    </circle>
+    <rect x="720" y="358" width="82" height="22" fill="#0B2545" opacity="0.85" stroke="#8ECAE6" stroke-width="0.8"/>
+    <text x="726" y="369" fill="#8ECAE6" font-size="9" font-weight="bold">STOCKPILE_B</text>
+    <text x="726" y="378" fill="#FFB703" font-size="8">VOL: 384 m³</text>
+  </g>
+
+  <!-- ============== HEAVY EQUIPMENT ============== -->
+
+  <!-- EXCAVATOR (left, working cut zone) -->
+  <g transform="translate(200,395)">
+    <rect x="-22" y="6" width="44" height="10" fill="#0B2545" rx="2"/>
+    <rect x="-22" y="6" width="44" height="3" fill="#1d3a60"/>
+    <g stroke="#000" stroke-width="0.5">
+      <line x1="-18" y1="8" x2="-18" y2="14"/>
+      <line x1="-12" y1="8" x2="-12" y2="14"/>
+      <line x1="-6" y1="8" x2="-6" y2="14"/>
+      <line x1="0" y1="8" x2="0" y2="14"/>
+      <line x1="6" y1="8" x2="6" y2="14"/>
+      <line x1="12" y1="8" x2="12" y2="14"/>
+      <line x1="18" y1="8" x2="18" y2="14"/>
+    </g>
+    <rect x="-15" y="-12" width="22" height="20" fill="url(#eqLight)" stroke="#0B2545" stroke-width="1"/>
+    <rect x="-15" y="-12" width="22" height="4" fill="url(#eqDark)"/>
+    <rect x="-12" y="-9" width="10" height="8" fill="#8ECAE6" stroke="#0B2545" stroke-width="0.5"/>
+    <line x1="-7" y1="-9" x2="-7" y2="-1" stroke="#0B2545" stroke-width="0.5"/>
+    <rect x="3" y="-8" width="6" height="14" fill="url(#eqDark)" stroke="#0B2545" stroke-width="1"/>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" values="-15;15;-15" dur="4s" repeatCount="indefinite"/>
+      <line x1="-5" y1="-8" x2="-35" y2="-25" stroke="#FFB703" stroke-width="6" stroke-linecap="round"/>
+      <line x1="-5" y1="-8" x2="-35" y2="-25" stroke="#0B2545" stroke-width="1" fill="none"/>
+      <line x1="-35" y1="-25" x2="-50" y2="-5" stroke="#FFB703" stroke-width="5" stroke-linecap="round"/>
+      <line x1="-35" y1="-25" x2="-50" y2="-5" stroke="#0B2545" stroke-width="0.8" fill="none"/>
+      <polygon points="-50,-5 -60,-2 -58,8 -45,5" fill="#FFB703" stroke="#0B2545" stroke-width="1"/>
+      <polygon points="-60,-2 -62,2 -58,2" fill="#0B2545"/>
+      <polygon points="-58,8 -58,12 -54,10" fill="#0B2545"/>
+    </g>
+    <circle cx="-4" cy="-14" r="2" fill="#8ECAE6" filter="url(#cyanGlow)">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- BULLDOZER (right, pushing toward fill) -->
+  <g transform="translate(880,430)">
+    <rect x="-25" y="3" width="50" height="11" fill="#0B2545" rx="2"/>
+    <rect x="-25" y="3" width="50" height="3" fill="#1d3a60"/>
+    <g stroke="#000" stroke-width="0.5">
+      <line x1="-20" y1="5" x2="-20" y2="13"/>
+      <line x1="-14" y1="5" x2="-14" y2="13"/>
+      <line x1="-8" y1="5" x2="-8" y2="13"/>
+      <line x1="-2" y1="5" x2="-2" y2="13"/>
+      <line x1="4" y1="5" x2="4" y2="13"/>
+      <line x1="10" y1="5" x2="10" y2="13"/>
+      <line x1="16" y1="5" x2="16" y2="13"/>
+      <line x1="22" y1="5" x2="22" y2="13"/>
+    </g>
+    <rect x="-15" y="-10" width="26" height="14" fill="url(#eqLight)" stroke="#0B2545" stroke-width="1"/>
+    <rect x="-15" y="-10" width="26" height="3" fill="url(#eqDark)"/>
+    <rect x="-8" y="-20" width="14" height="11" fill="url(#eqLight)" stroke="#0B2545" stroke-width="1"/>
+    <rect x="-6" y="-18" width="10" height="7" fill="#8ECAE6" stroke="#0B2545" stroke-width="0.5"/>
+    <rect x="8" y="-22" width="3" height="10" fill="#0B2545"/>
+    <circle cx="9.5" cy="-24" r="3" fill="#F2F8FF" opacity="0.55">
+      <animate attributeName="cy" values="-24;-34;-24" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.55;0;0.55" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="9.5" cy="-24" r="3.5" fill="#F2F8FF" opacity="0.45">
+      <animate attributeName="cy" values="-24;-31;-24" dur="2.3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.45;0;0.45" dur="2.3s" repeatCount="indefinite"/>
+    </circle>
+    <polygon points="-25,-4 -32,-6 -34,8 -25,10" fill="url(#eqLight)" stroke="#0B2545" stroke-width="1"/>
+    <line x1="-25" y1="-4" x2="-15" y2="-2" stroke="#0B2545" stroke-width="1"/>
+    <line x1="-25" y1="10" x2="-15" y2="6" stroke="#0B2545" stroke-width="1"/>
+    <circle cx="-38" cy="6" r="6" fill="url(#dust)" opacity="0.7">
+      <animate attributeName="r" values="6;9;6" dur="1.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.7;0.3;0.7" dur="1.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="-44" cy="9" r="5" fill="url(#dust)" opacity="0.5">
+      <animate attributeName="r" values="5;8;5" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="0" cy="-22" r="2" fill="#8ECAE6" filter="url(#cyanGlow)">
+      <animate attributeName="opacity" values="1;0.2;1" dur="0.9s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- DUMP TRUCK (moving) -->
+  <g>
+    <g>
+      <animateTransform attributeName="transform" type="translate"
+        values="420,460; 640,460; 420,460" dur="14s" repeatCount="indefinite"/>
+      <circle cx="-15" cy="10" r="5" fill="#0B2545"/>
+      <circle cx="-15" cy="10" r="2" fill="#1d3a60"/>
+      <circle cx="0" cy="10" r="5" fill="#0B2545"/>
+      <circle cx="0" cy="10" r="2" fill="#1d3a60"/>
+      <circle cx="18" cy="10" r="5" fill="#0B2545"/>
+      <circle cx="18" cy="10" r="2" fill="#1d3a60"/>
+      <polygon points="-22,-8 5,-8 8,6 -22,6" fill="url(#eqDark)" stroke="#0B2545" stroke-width="1"/>
+      <path d="M -20 -8 Q -10 -14 0 -8 L 3 -8 L -20 -8 Z" fill="url(#dirtLight)"/>
+      <rect x="5" y="-6" width="14" height="12" fill="url(#eqLight)" stroke="#0B2545" stroke-width="1"/>
+      <rect x="7" y="-4" width="10" height="6" fill="#8ECAE6" stroke="#0B2545" stroke-width="0.5"/>
+      <circle cx="12" cy="-9" r="1.5" fill="#8ECAE6" filter="url(#cyanGlow)">
+        <animate attributeName="opacity" values="1;0.2;1" dur="1.1s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+  </g>
+
+  <!-- ============== BUILDING UNDER CONSTRUCTION ============== -->
+  <g>
+    <polygon points="1030,260 1070,250 1070,340 1030,350" fill="url(#concLight)"/>
+    <polygon points="1070,250 1105,260 1105,350 1070,340" fill="url(#concDark)"/>
+    <polygon points="1030,260 1070,250 1105,260 1070,270" fill="url(#concTop)"/>
+    <line x1="1030" y1="282" x2="1070" y2="272" stroke="#0B2545" stroke-width="0.5"/>
+    <line x1="1070" y1="272" x2="1105" y2="282" stroke="#0B2545" stroke-width="0.5"/>
+    <line x1="1030" y1="305" x2="1070" y2="295" stroke="#0B2545" stroke-width="0.5"/>
+    <line x1="1070" y1="295" x2="1105" y2="305" stroke="#0B2545" stroke-width="0.5"/>
+    <line x1="1030" y1="328" x2="1070" y2="318" stroke="#0B2545" stroke-width="0.5"/>
+    <line x1="1070" y1="318" x2="1105" y2="328" stroke="#0B2545" stroke-width="0.5"/>
+    <!-- Wireframe future floors -->
+    <g stroke="#FFB703" stroke-width="1" fill="none" opacity="0.95">
+      <polygon points="1030,225 1070,215 1070,260 1030,270"/>
+      <polygon points="1070,215 1105,225 1105,260 1070,250"/>
+      <polygon points="1030,225 1070,215 1105,225 1070,235"/>
+      <line x1="1030" y1="247" x2="1070" y2="237"/>
+      <line x1="1070" y1="237" x2="1105" y2="247"/>
+    </g>
+    <!-- Rebar -->
+    <g stroke="#0B2545" stroke-width="1">
+      <line x1="1038" y1="223" x2="1038" y2="210"/>
+      <line x1="1050" y1="219" x2="1050" y2="206"/>
+      <line x1="1062" y1="217" x2="1062" y2="204"/>
+      <line x1="1080" y1="217" x2="1080" y2="204"/>
+      <line x1="1092" y1="221" x2="1092" y2="208"/>
+      <line x1="1100" y1="223" x2="1100" y2="210"/>
+    </g>
+  </g>
+
+  <!-- Road -->
+  <g>
+    <path d="M 0 475 L 1200 475 L 1200 487 L 0 487 Z" fill="#0B2545" opacity="0.85"/>
+    <path d="M 0 481 L 1200 481" stroke="#FFB703" stroke-width="1" stroke-dasharray="15 10" opacity="0.7">
+      <animate attributeName="stroke-dashoffset" from="0" to="-25" dur="1.5s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- ============== FEDERATED TWIN OVERLAY ============== -->
+  <g stroke="#8ECAE6" stroke-width="1" fill="none" opacity="0.75" filter="url(#cyanGlow)">
+    <polygon points="90,380 170,360 280,375 320,415 240,440 130,425" stroke-dasharray="3 2"/>
+    <polygon points="940,400 1040,385 1120,400 1100,430 1000,438 920,420" stroke-dasharray="3 2"/>
+    <path d="M 500 325 L 425 410 L 500 425 L 575 410 Z" stroke-dasharray="3 2"/>
+    <path d="M 500 325 L 575 410"/>
+    <path d="M 500 325 L 425 410"/>
+    <polygon points="1030,180 1070,170 1070,260 1030,270"/>
+    <polygon points="1070,170 1105,180 1105,260 1070,250"/>
+    <line x1="1030" y1="200" x2="1070" y2="190"/>
+    <line x1="1070" y1="190" x2="1105" y2="200"/>
+    <line x1="1030" y1="225" x2="1070" y2="215"/>
+    <line x1="1070" y1="215" x2="1105" y2="225"/>
+  </g>
+
+  <!-- LIDAR scan sweep -->
+  <g opacity="0.4">
+    <rect x="0" y="290" width="50" height="200" fill="#8ECAE6">
+      <animate attributeName="x" values="-50;1200;-50" dur="11s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.22;0" keyTimes="0;0.5;1" dur="11s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <line x1="0" y1="290" x2="0" y2="488" stroke="#8ECAE6" stroke-width="2" filter="url(#cyanGlow)" opacity="0.9">
+    <animate attributeName="x1" values="-10;1210;-10" dur="11s" repeatCount="indefinite"/>
+    <animate attributeName="x2" values="-10;1210;-10" dur="11s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- Telematics data lines streaming from equipment -->
+  <g>
+    <line x1="200" y1="380" x2="280" y2="40" stroke="#8ECAE6" stroke-width="0.5" opacity="0.45" stroke-dasharray="3 4">
+      <animate attributeName="stroke-dashoffset" from="0" to="-14" dur="1s" repeatCount="indefinite"/>
+    </line>
+    <line x1="880" y1="408" x2="1000" y2="40" stroke="#8ECAE6" stroke-width="0.5" opacity="0.45" stroke-dasharray="3 4">
+      <animate attributeName="stroke-dashoffset" from="0" to="-14" dur="1.1s" repeatCount="indefinite"/>
+    </line>
+    <line x1="510" y1="450" x2="600" y2="40" stroke="#8ECAE6" stroke-width="0.5" opacity="0.35" stroke-dasharray="3 4">
+      <animate attributeName="stroke-dashoffset" from="0" to="-14" dur="0.9s" repeatCount="indefinite"/>
+    </line>
+  </g>
+
+  <!-- Survey control points -->
+  <g>
+    <circle cx="360" cy="463" r="2.5" fill="#FFB703" filter="url(#amberGlow)">
+      <animate attributeName="opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="365" y="460" fill="#FFB703" font-size="7">CP-01</text>
+    <circle cx="600" cy="470" r="2.5" fill="#FFB703" filter="url(#amberGlow)">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2.1s" repeatCount="indefinite"/>
+    </circle>
+    <text x="605" y="467" fill="#FFB703" font-size="7">CP-02</text>
+    <circle cx="820" cy="464" r="2.5" fill="#FFB703" filter="url(#amberGlow)">
+      <animate attributeName="opacity" values="1;0.3;1" dur="1.7s" repeatCount="indefinite"/>
+    </circle>
+    <text x="825" y="461" fill="#FFB703" font-size="7">CP-03</text>
+    <circle cx="1050" cy="470" r="2.5" fill="#FFB703" filter="url(#amberGlow)">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2.3s" repeatCount="indefinite"/>
+    </circle>
+    <text x="1055" y="467" fill="#FFB703" font-size="7">CP-04</text>
+  </g>
+
+  <!-- ============== HUD OVERLAY ============== -->
+  <!-- Top-left: title -->
+  <g>
+    <rect x="20" y="18" width="320" height="74" fill="#0B2545" opacity="0.85" stroke="#8ECAE6" stroke-width="1.2"/>
+    <text x="32" y="40" fill="#8ECAE6" font-size="16" font-weight="bold">▮ SIMSITE 2000</text>
+    <text x="32" y="55" fill="#FFB703" font-size="9">FEDERATED TWIN EDITION · v3.1.4</text>
+    <line x1="32" y1="61" x2="328" y2="61" stroke="#8ECAE6" stroke-width="0.5" opacity="0.5"/>
+    <text x="32" y="74" fill="#F2F8FF" font-size="9">PROJECT: <tspan fill="#FFB703">RIVERSIDE_INFRASTRUCTURE</tspan></text>
+    <text x="32" y="86" fill="#F2F8FF" font-size="9">STATUS: <tspan fill="#FFB703">▶ ACTIVE</tspan> · DAY <tspan fill="#FFB703">147 / 320</tspan></text>
+  </g>
+
+  <!-- Top-right: telematics -->
+  <g>
+    <rect x="860" y="18" width="320" height="92" fill="#0B2545" opacity="0.85" stroke="#8ECAE6" stroke-width="1.2"/>
+    <text x="872" y="34" fill="#8ECAE6" font-size="11" font-weight="bold">█ FLEET TELEMATICS</text>
+    <line x1="872" y1="40" x2="1168" y2="40" stroke="#8ECAE6" stroke-width="0.5" opacity="0.5"/>
+    <circle cx="878" cy="51" r="2" fill="#FFB703"/>
+    <text x="885" y="54" fill="#F2F8FF" font-size="8">EXC-340 <tspan fill="#FFB703">●ACTIVE</tspan> <tspan fill="#8ECAE6">87% fuel · 42°C</tspan></text>
+    <circle cx="878" cy="65" r="2" fill="#FFB703"/>
+    <text x="885" y="68" fill="#F2F8FF" font-size="8">DZR-D6  <tspan fill="#FFB703">●ACTIVE</tspan> <tspan fill="#8ECAE6">62% fuel · 51°C</tspan></text>
+    <circle cx="878" cy="79" r="2" fill="#FFB703"/>
+    <text x="885" y="82" fill="#F2F8FF" font-size="8">DMP-789 <tspan fill="#FFB703">●HAULING</tspan> <tspan fill="#8ECAE6">74% fuel · 38°C</tspan></text>
+    <circle cx="878" cy="93" r="2" fill="#FFB703"/>
+    <text x="885" y="96" fill="#F2F8FF" font-size="8">UAV-S2  <tspan fill="#FFB703">●SURVEYING</tspan> <tspan fill="#8ECAE6">68% bat · alt 32m</tspan></text>
+    <text x="872" y="106" fill="#FFB703" font-size="8">▸ 4 assets streaming · 1.2k pts/sec</text>
+  </g>
+
+  <!-- Cut/Fill balance -->
+  <g>
+    <rect x="20" y="330" width="40" height="34" fill="#0B2545" opacity="0.85" stroke="#FFB703" stroke-width="0.8"/>
+    <text x="40" y="343" fill="#FFB703" font-size="8" text-anchor="middle" font-weight="bold">CUT</text>
+    <text x="40" y="354" fill="#F2F8FF" font-size="9" text-anchor="middle">2,840</text>
+    <text x="40" y="361" fill="#8ECAE6" font-size="6" text-anchor="middle">m³</text>
+
+    <rect x="20" y="368" width="40" height="34" fill="#0B2545" opacity="0.85" stroke="#8ECAE6" stroke-width="0.8"/>
+    <text x="40" y="381" fill="#8ECAE6" font-size="8" text-anchor="middle" font-weight="bold">FILL</text>
+    <text x="40" y="392" fill="#F2F8FF" font-size="9" text-anchor="middle">2,615</text>
+    <text x="40" y="399" fill="#8ECAE6" font-size="6" text-anchor="middle">m³</text>
+
+    <rect x="20" y="406" width="40" height="34" fill="#0B2545" opacity="0.85" stroke="#F2F8FF" stroke-width="0.8"/>
+    <text x="40" y="419" fill="#F2F8FF" font-size="7" text-anchor="middle" font-weight="bold">NET</text>
+    <text x="40" y="430" fill="#FFB703" font-size="9" text-anchor="middle">-225</text>
+    <text x="40" y="437" fill="#8ECAE6" font-size="6" text-anchor="middle">m³</text>
+  </g>
+
+  <!-- Bottom HUD bar -->
+  <g>
+    <rect x="0" y="475" width="1200" height="25" fill="#0B2545" opacity="0.92"/>
+    <rect x="0" y="475" width="1200" height="2" fill="#8ECAE6" opacity="0.8"/>
+    <text x="20" y="491" fill="#8ECAE6" font-size="10" font-weight="bold">&gt; FEDERATED_TWIN:</text>
+    <text x="160" y="491" fill="#F2F8FF" font-size="9">[DESIGN] <tspan fill="#FFB703">●synced</tspan></text>
+    <text x="270" y="491" fill="#F2F8FF" font-size="9">[SURVEY] <tspan fill="#FFB703">●synced</tspan></text>
+    <text x="380" y="491" fill="#F2F8FF" font-size="9">[MACHINE] <tspan fill="#FFB703">●synced</tspan></text>
+    <text x="498" y="491" fill="#F2F8FF" font-size="9">[AS-BUILT] <tspan fill="#8ECAE6">●updating</tspan></text>
+    <text x="625" y="491" fill="#8ECAE6" font-size="9">▸ LIDAR: <tspan fill="#FFB703">847k pts</tspan></text>
+    <text x="1000" y="491" fill="#8ECAE6" font-size="9">LAT -43.59° LON 172.47°</text>
+    <rect x="151" y="484" width="6" height="8" fill="#FFB703">
+      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- CRT scanlines + vignette -->
+  <rect width="1200" height="500" fill="url(#scanlines)" opacity="0.4" pointer-events="none"/>
+  <rect width="1200" height="500" fill="url(#vignette)" pointer-events="none"/>
+</svg>
