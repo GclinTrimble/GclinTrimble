@@ -7,7 +7,7 @@
 -->
 ## `§ 01 — Identification`
 
-🏗️ $$Federated Digital Twin** · Civil Construction
+🏗️ **Federated Digital Twin** · Civil Construction
 📐 **Product Management** · Cloud · Geospatial Intelligence
 👨‍💻 **Guillaume Clin**
 🛰️ **Trimble** — building the Digital Site Management
