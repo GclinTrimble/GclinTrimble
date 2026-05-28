@@ -28,7 +28,7 @@ mission:        🤝 **Shipped the federated layer** that lets surveying data up
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/guillaume-clin/"><img src="https://img.shields.io/badge/LINKEDIN-0B2545?style=for-the-badge&logo=linkedin&logoColor=8ECAE6&labelColor=0B2545" /></a>
+  <a href="https://www.linkedin.com/in/guillaume-clin/"><img src="https://img.shields.io/badge/LinkedIn-Connect-8ECAE6?style=for-the-badge&logo=linkedin&logoColor=0B2545&labelColor=0B2545" /></a>
   <a href="https://www.youtube.com/@Guillaume.Clin_Trimble"><img src="https://img.shields.io/badge/YOUTUBE-0B2545?style=for-the-badge&logo=youtube&logoColor=FFB703&labelColor=0B2545" /></a>
   <a href="https://github.com/GclinTrimble"><img src="https://komarev.com/ghpvc/?username=GclinTrimble&label=PROFILE+VIEWS&color=8ECAE6&style=for-the-badge&base=1000" /></a>
 </p>
@@ -92,7 +92,7 @@ The goal isn't "more data." It's **fewer surprises**, **faster decisions**, and 
   <tr>
     <td align="center" width="33%">
       <a href="https://www.linkedin.com/pulse/system-aoteroa-infrastructure-guillaume-clin-mqlsc/?trackingId=YLmIjVV1SFqSSy7phUCobA%3D%3D">
-        <img src="./assets/A System of System for Aoteroa Infrastructure by Guillaume Clin.png" width="100%" alt="A System of System for Aoteroa Infrastructure" />
+        <img src="./assets/A%20system%20of%20System%20for%20Aoteroa%20by%20Guillaume%20Clin.jpg" width="100%" alt="A System of System for Aoteroa Infrastructure" />
         <br/><br/>
         <b>A "System of System" for Aoteroa Infrastructure</b>
       </a>
@@ -136,20 +136,7 @@ The goal isn't "more data." It's **fewer surprises**, **faster decisions**, and 
 
 ---
 
-## `§ 05 — DELIVERABLES & WINS`
-
-> *(swap in real numbers / launches as they ship — placeholders mark where to edit)*
-
-- 🏗️ **Shipped the federated layer** that lets surveying data update design models and machine guidance in the same workday — closing the design ↔ field loop end-to-end.
-- 📐 **Cut survey-to-design latency** on early-access sites by federating GNSS streams into the design twin.
-- 🛰️ **Launched cloud-based intelligence** for civil construction workflows.
-- 🧠 **Stood up the AI scaffolding** that turns drone photogrammetry into classified, query-able as-built data, no manual tagging required.
-- 🎙️ **Public talks & content** on digital twins for the built world — see [YouTube channel](https://www.youtube.com/@Guillaume.Clin_Trimble).
-- 🤝 **Built the bridge** between engineering, GTM, and field operators so the roadmap reflects what crews actually need at 6am on a Tuesday.
-
----
-
-## `§ 06 — NOW PLAYING`
+## `§ 05 — NOW PLAYING`
 
 <p align="center">
   <a href="https://open.spotify.com/user/GclinTrimble">
@@ -160,31 +147,6 @@ The goal isn't "more data." It's **fewer surprises**, **faster decisions**, and 
 <sub>↳ Soundtrack to drafting infrastructure that thinks. Setup steps in <code>SETUP.md</code>.</sub>
 
 ---
-
-## `§ 07 — CONTACT BLOCK`
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <a href="https://www.linkedin.com/in/guillaume-clin/">
-        <img src="https://img.shields.io/badge/LinkedIn-Connect-8ECAE6?style=for-the-badge&logo=linkedin&logoColor=0B2545&labelColor=0B2545" /><br/>
-        <sub><b>For talks, partnerships, and roadmap conversations</b></sub>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="https://www.youtube.com/@Guillaume.Clin_Trimble">
-        <img src="https://img.shields.io/badge/YouTube-Watch-FFB703?style=for-the-badge&logo=youtube&logoColor=0B2545&labelColor=0B2545" /><br/>
-        <sub><b>Talks on digital twin, surveying, and the connected jobsite</b></sub>
-      </a>
-    </td>
-    <td align="center" width="33%">
-      <a href="mailto:guillaume_clin@trimble.com">
-        <img src="https://img.shields.io/badge/Email-Reach_Out-F2F8FF?style=for-the-badge&logo=protonmail&logoColor=0B2545&labelColor=0B2545" /><br/>
-        <sub><b>Direct line — short emails appreciated</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GclinTrimble&layout=compact&hide_border=true&bg_color=0B2545&title_color=8ECAE6&text_color=F2F8FF&langs_count=8" height="180" />
