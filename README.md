@@ -96,7 +96,7 @@ The goal isn't "more data." It's **fewer surprises**, **faster decisions**, and 
   <tr>
     <td align="center" width="33%">
       <a href="https://www.linkedin.com/pulse/system-aoteroa-infrastructure-guillaume-clin-mqlsc/?trackingId=YLmIjVV1SFqSSy7phUCobA%3D%3D">
-        <img src="./assets/A System of System for Aoteroa Infrastructure by Guillaume Clin.png" width="100%" alt="A System of System for Aoteroa Infrastructure" />
+        <img src="./assets/A%20system%20of%20System%20for%20Aoteroa%20by%20Guillaume%20Clin.jpg" width="100%" alt="A System of System for Aoteroa Infrastructure" />
         <br/><br/>
         <b>A "System of System" for Aoteroa Infrastructure</b>
       </a>
