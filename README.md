@@ -7,14 +7,14 @@
 -->
 ## `§ 01 — Identification`
 
-🏗️ **Federated Digital Twin** · Civil Construction
-📐 **Product Management** · Cloud · Geospatial Intelligence
-👨‍💻 **Guillaume Clin**
-🛰️ **Trimble** — building the Digital Site Management
-🧠 **Launched cloud-based intelligence** for civil construction workflows
-[▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░] 87% caffeinated
-🎙️ **Public talks & content** on digital twins for the built world — see <a href="https://www.youtube.com/@Guillaume.Clin_Trimble"><b>YouTube</b></a>
-🤝 **Shipped the federated layer** that lets surveying data update design models and machine guidance in the same workday — closing the design ↔ field loop end-to-end.
+👨‍💻 **Guillaume Clin**  
+🏗️ **Federated Digital Twin** · Civil Construction  
+📐 **Product Management** · Cloud · Geospatial Intelligence  
+🛰️ **Trimble** — building the Digital Site Management  
+🧠 **Launched cloud-based intelligence** for civil construction workflows  
+[▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░] 87% caffeinated  
+🎙️ **Public talks & content** on digital twins for the built world — see <a href="https://www.youtube.com/@Guillaume.Clin_Trimble"><b>YouTube</b></a>  
+🤝 **Shipped the federated layer** that lets surveying data update design models and machine guidance in the same workday — closing the design ↔ field loop end-to-end.  
 
 <p align="center">
   <img src="./assets/blueprint-header.svg" alt="Guillaume Clin — Blueprint Header" width="100%" />
@@ -87,8 +87,6 @@ The goal isn't "more data." It's **fewer surprises**, **faster decisions**, and 
 <p align="right">
   <a href="https://www.linkedin.com/in/guillaume-clin/recent-activity/articles/"><sub>→ See all articles on LinkedIn</sub></a>
 </p>
-
-### 🎬 Latest on YouTube
 
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- END YOUTUBE-CARDS -->
