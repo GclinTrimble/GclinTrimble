@@ -5,18 +5,17 @@
   Palette: #0B2545 (navy) · #8ECAE6 (cyan) · #FFB703 (drafting amber) · #F2F8FF (paper)
   ────────────────────────────────────────────────────────────────────────────
 -->
-## `§ 01 — IDENTIFICATION`
+## `§ 01 — Identification`
 
-```yaml
-project:        🏗️ $$Federated Digital Twin** · Civil Construction
-discipline:     📐 **Product Management** · Cloud · Geospatial Intelligence
-drawn_by:       **Guillaume Clin**
-employer:       🛰️ **Trimble** — building the Digital Site Management
-scale:          🧠 **Launched cloud-based intelligence** for civil construction workflows
-status:         [▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░] 87% caffeinated
-Voice:          🎙️ **Public talks & content** on digital twins for the built world — see [YouTube channel](https://www.youtube.com/@Guillaume.Clin_Trimble).
-mission:        🤝 **Shipped the federated layer** that lets surveying data update design models and machine guidance in the same workday — closing the design ↔ field loop end-to-end.
-```
+🏗️ $$Federated Digital Twin** · Civil Construction
+📐 **Product Management** · Cloud · Geospatial Intelligence
+👨‍💻 **Guillaume Clin**
+🛰️ **Trimble** — building the Digital Site Management
+🧠 **Launched cloud-based intelligence** for civil construction workflows
+[▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░] 87% caffeinated
+🎙️ **Public talks & content** on digital twins for the built world — see <a href="https://www.youtube.com/@Guillaume.Clin_Trimble"><b>YouTube</b></a>
+🤝 **Shipped the federated layer** that lets surveying data update design models and machine guidance in the same workday — closing the design ↔ field loop end-to-end.
+
 <p align="center">
   <img src="./assets/blueprint-header.svg" alt="Guillaume Clin — Blueprint Header" width="100%" />
 </p>
@@ -57,45 +56,29 @@ A **Federated Digital Twin** changes that. Instead of one monolithic model, it's
 
 The goal isn't "more data." It's **fewer surprises**, **faster decisions**, and an **as-built that's actually accurate** on day one of operations.
 
----
-
-## `§ 03 — METHODS & MATERIALS`
-
 ### 📰 Featured Writing
+
+<!-- BEGIN ARTICLE-CARDS -->
+[![A "System of System" for Aoteroa Infrastructure](./assets/A%20system%20of%20System%20for%20Aoteroa%20by%20Guillaume%20Clin.jpg "A \"System of System\" for Aoteroa Infrastructure")](https://www.linkedin.com/pulse/system-aoteroa-infrastructure-guillaume-clin-mqlsc/?trackingId=YLmIjVV1SFqSSy7phUCobA%3D%3D)
+[![Connected Data in Civil Construction](./assets/Connected%20Data%20in%20Civil%20Construction%20An%20Examination%20of%20CDE%20Connected%20Environments%20Ecosystems%20and%20Trimble%20s%20Role%20by%20Guillaume%20Clin.png "Connected Data in Civil Construction: An Examination of CDE, Connected Environments & Trimble's Role")](https://www.linkedin.com/pulse/connected-data-civil-construction-examination-cde-ecosystems-clin-xthyc/?trackingId=YLmIjVV1SFqSSy7phUCobA%3D%3D)
+[![Civil Construction Terrain and the Aggregation of Surface Data](./assets/Civil%20Construction%20Terrain%20and%20the%20Aggregation%20of%20Surface%20Data%20for%20a%20Connected%20Ecosystem%20by%20Guillaume%20Clin.jpg "Civil Construction Terrain and the Aggregation of Surface Data for a Connected Ecosystem")](https://www.linkedin.com/pulse/civil-construction-terrain-aggregation-surface-data-connected-clin-oebtc/?trackingId=YLmIjVV1SFqSSy7phUCobA%3D%3D)
+<!-- END ARTICLE-CARDS -->
 
 <table>
   <tr>
     <td valign="top" width="33%">
-      <a href="https://www.linkedin.com/pulse/system-aoteroa-infrastructure-guillaume-clin-mqlsc/?trackingId=YLmIjVV1SFqSSy7phUCobA%3D%3D">
-        <img src="./assets/A%20system%20of%20System%20for%20Aoteroa%20by%20Guillaume%20Clin.jpg" width="100%" alt="A System of System for Aoteroa Infrastructure" />
-      </a>
-      <br/>
-      <a href="https://www.linkedin.com/pulse/system-aoteroa-infrastructure-guillaume-clin-mqlsc/?trackingId=YLmIjVV1SFqSSy7phUCobA%3D%3D"><b>A "System of System" for Aoteroa Infrastructure</b></a>
-      <br/>
-      <sub>Te Waihanga | The New Zealand Infrastructure Commission recently explored what a federated infrastructure system could look like.</sub>
-      <br/><br/>
+      <b><a href="https://www.linkedin.com/pulse/system-aoteroa-infrastructure-guillaume-clin-mqlsc/?trackingId=YLmIjVV1SFqSSy7phUCobA%3D%3D">A "System of System" for Aoteroa Infrastructure</a></b><br/>
+      <sub>Te Waihanga | The New Zealand Infrastructure Commission recently explored what a federated infrastructure system could look like.</sub><br/>
       <sub>by Guillaume Clin &nbsp;·&nbsp; 6 min read</sub>
     </td>
     <td valign="top" width="33%">
-      <a href="https://www.linkedin.com/pulse/connected-data-civil-construction-examination-cde-ecosystems-clin-xthyc/?trackingId=YLmIjVV1SFqSSy7phUCobA%3D%3D">
-        <img src="./assets/Connected%20Data%20in%20Civil%20Construction%20An%20Examination%20of%20CDE%20Connected%20Environments%20Ecosystems%20and%20Trimble%20s%20Role%20by%20Guillaume%20Clin.png" width="100%" alt="Connected Data in Civil Construction" />
-      </a>
-      <br/>
-      <a href="https://www.linkedin.com/pulse/connected-data-civil-construction-examination-cde-ecosystems-clin-xthyc/?trackingId=YLmIjVV1SFqSSy7phUCobA%3D%3D"><b>Connected Data in Civil Construction: An Examination of CDE, Connected Environments & Trimble's Role</b></a>
-      <br/>
-      <sub>The civil construction industry operates within an increasingly connected ecosystem of data, tools, and platforms.</sub>
-      <br/><br/>
+      <b><a href="https://www.linkedin.com/pulse/connected-data-civil-construction-examination-cde-ecosystems-clin-xthyc/?trackingId=YLmIjVV1SFqSSy7phUCobA%3D%3D">Connected Data in Civil Construction: An Examination of CDE, Connected Environments & Trimble's Role</a></b><br/>
+      <sub>The civil construction industry operates within an increasingly connected ecosystem of data, tools, and platforms.</sub><br/>
       <sub>by Guillaume Clin &nbsp;·&nbsp; 13 min read</sub>
     </td>
     <td valign="top" width="33%">
-      <a href="https://www.linkedin.com/pulse/civil-construction-terrain-aggregation-surface-data-connected-clin-oebtc/?trackingId=YLmIjVV1SFqSSy7phUCobA%3D%3D">
-        <img src="./assets/Civil%20Construction%20Terrain%20and%20the%20Aggregation%20of%20Surface%20Data%20for%20a%20Connected%20Ecosystem%20by%20Guillaume%20Clin.jpg" width="100%" alt="Civil Construction Terrain and the Aggregation of Surface Data" />
-      </a>
-      <br/>
-      <a href="https://www.linkedin.com/pulse/civil-construction-terrain-aggregation-surface-data-connected-clin-oebtc/?trackingId=YLmIjVV1SFqSSy7phUCobA%3D%3D"><b>Civil Construction Terrain and the Aggregation of Surface Data for a Connected Ecosystem</b></a>
-      <br/>
-      <sub>The civil construction industry operates within an increasingly complex landscape of geospatial and terrain data.</sub>
-      <br/><br/>
+      <b><a href="https://www.linkedin.com/pulse/civil-construction-terrain-aggregation-surface-data-connected-clin-oebtc/?trackingId=YLmIjVV1SFqSSy7phUCobA%3D%3D">Civil Construction Terrain and the Aggregation of Surface Data for a Connected Ecosystem</a></b><br/>
+      <sub>The civil construction industry operates within an increasingly complex landscape of geospatial and terrain data.</sub><br/>
       <sub>by Guillaume Clin &nbsp;·&nbsp; 10 min read</sub>
     </td>
   </tr>
@@ -106,9 +89,8 @@ The goal isn't "more data." It's **fewer surprises**, **faster decisions**, and 
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-CLOUD_ARCHITECTURE-8ECAE6?style=for-the-badge&logo=icloud&logoColor=0B2545&labelColor=0B2545" />
   <img src="https://img.shields.io/badge/-DIGITAL_TWIN-FFB703?style=for-the-badge&logo=unrealengine&logoColor=0B2545&labelColor=0B2545" />
-  <img src="https://img.shields.io/badge/-GEOSPATIAL-4FC3F7?style=for-the-badge&logo=googleearth&logoColor=0B2545&labelColor=0B2545" />
+  <img src="https://img.shields.io/badge/-CIVIL CONSTRUCTION-4FC3F7?style=for-the-badge&logo=googleearth&logoColor=0B2545&labelColor=0B2545" />
   <img src="https://img.shields.io/badge/-SURVEYING-29B6F6?style=for-the-badge&logo=arcgis&logoColor=0B2545&labelColor=0B2545" />
   <img src="https://img.shields.io/badge/-BIM-79C0FF?style=for-the-badge&logo=autodesk&logoColor=0B2545&labelColor=0B2545" />
   <img src="https://img.shields.io/badge/-AI%2FML-F2F8FF?style=for-the-badge&logo=openai&logoColor=0B2545&labelColor=0B2545" />
@@ -118,8 +100,7 @@ The goal isn't "more data." It's **fewer surprises**, **faster decisions**, and 
 
 ---
 
-## `§ 04 — PERFORMANCE METRICS`
-
+## `§ 04 — CONTRIBUTION METRICS`
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/GclinTrimble/GclinTrimble/output/github-contribution-grid-snake-dark.svg" width="98%" alt="Snake animation traversing the contribution grid" />
