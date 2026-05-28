@@ -27,7 +27,7 @@
 ## `§ 01 — IDENTIFICATION`
 
 ```yaml
-project:        Federated Digital Twin · Civil Construction
+project:        🏗️ Federated Digital Twin · Civil Construction
 discipline:     Product Management · Cloud · Geospatial Intelligence
 drawn_by:       Guillaume Clin
 employer:       Trimble — building the Digital Site Management
@@ -105,15 +105,6 @@ The goal isn't "more data." It's **fewer surprises**, **faster decisions**, and 
 <p align="center">
   <img src="https://raw.githubusercontent.com/GclinTrimble/GclinTrimble/output/github-contribution-grid-snake-dark.svg" width="98%" alt="Snake animation traversing the contribution grid" />
 </p>
-
-
-### Trophy cabinet
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GclinTrimble&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
-</p>
-
-### Detailed metrics
 
 <p align="center">
   <img src="./assets/metrics.svg" alt="Full metrics dashboard" width="98%" />
