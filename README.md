@@ -16,33 +16,26 @@
   </a>
 </p>
 
+---
+
+## `§ 01 — IDENTIFICATION`
+
+
+```yaml
+project:        🏗️ $$Federated Digital Twin** · Civil Construction
+discipline:     📐 **Product Management** · Cloud · Geospatial Intelligence
+drawn_by:       **Guillaume Clin**
+employer:       🛰️ **Trimble** — building the Digital Site Management
+scale:          🧠 **Launched cloud-based intelligence** for civil construction workflows
+status:         [▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░] 87% caffeinated
+Voice:          🎙️ **Public talks & content** on digital twins for the built world — see [YouTube channel](https://www.youtube.com/@Guillaume.Clin_Trimble).
+mission:        🤝 **Shipped the federated layer** that lets surveying data update design models and machine guidance in the same workday — closing the design ↔ field loop end-to-end.
+```
 <p align="center">
   <a href="https://www.linkedin.com/in/guillaume-clin/"><img src="https://img.shields.io/badge/LINKEDIN-0B2545?style=for-the-badge&logo=linkedin&logoColor=8ECAE6&labelColor=0B2545" /></a>
   <a href="https://www.youtube.com/@Guillaume.Clin_Trimble"><img src="https://img.shields.io/badge/YOUTUBE-0B2545?style=for-the-badge&logo=youtube&logoColor=FFB703&labelColor=0B2545" /></a>
   <a href="https://github.com/GclinTrimble"><img src="https://komarev.com/ghpvc/?username=GclinTrimble&label=PROFILE+VIEWS&color=8ECAE6&style=for-the-badge&base=1000" /></a>
 </p>
-
----
-
-## `§ 01 — IDENTIFICATION`
-
-```yaml
-project:        🏗️ Federated Digital Twin · Civil Construction
-discipline:     Product Management · Cloud · Geospatial Intelligence
-drawn_by:       Guillaume Clin
-employer:       Trimble — building the Digital Site Management
-scale:          Global · Multi-site · Multi-domain
-status:         [▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰░░░] 87% caffeinated
-location:       > intersection of product development, construction, and the built world
-mission:        Turn messy field reality into clean, usable intelligence.
-```
-
-- 🏗️ **Shipped the federated layer** that lets surveying data update design models and machine guidance in the same workday — closing the design ↔ field loop end-to-end.
-- 📐 **Cut survey-to-design latency** on early-access sites by federating GNSS streams into the design twin.
-- 🛰️ **Launched cloud-based intelligence** for civil construction workflows.
-- 🧠 **Stood up the AI scaffolding** that turns drone photogrammetry into classified, query-able as-built data, no manual tagging required.
-- 🎙️ **Public talks & content** on digital twins for the built world — see [YouTube channel](https://www.youtube.com/@Guillaume.Clin_Trimble).
-- 🤝 **Built the bridge** between engineering, GTM, and field operators so the roadmap reflects what crews actually need at 6am on a Tuesday.
 
 > **TL;DR —** I build the cloud tools that move dirt, pour concrete, and tie the design model to the bulldozer.
 > Then I make sure the data that comes back makes the *next* project smarter.
