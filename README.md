@@ -88,6 +88,15 @@ The goal isn't "more data." It's **fewer surprises**, **faster decisions**, and 
   <a href="https://www.linkedin.com/in/guillaume-clin/recent-activity/articles/"><sub>→ See all articles on LinkedIn</sub></a>
 </p>
 
+### 🎬 Latest on YouTube
+
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
+<p align="right">
+  <a href="https://www.youtube.com/@Guillaume.Clin_Trimble"><sub>→ See all videos on YouTube</sub></a>
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/-DIGITAL_TWIN-FFB703?style=for-the-badge&logo=unrealengine&logoColor=0B2545&labelColor=0B2545" />
   <img src="https://img.shields.io/badge/-CIVIL CONSTRUCTION-4FC3F7?style=for-the-badge&logo=googleearth&logoColor=0B2545&labelColor=0B2545" />
