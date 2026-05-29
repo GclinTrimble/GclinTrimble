@@ -59,6 +59,12 @@ The goal isn't "more data." It's **fewer surprises**, **faster decisions**, and 
 ### 📰 Featured Writing
 
 <!-- LINKEDIN-CARDS-START -->
+<a href="https://www.linkedin.com/in/guillaume-clin/recent-activity/articles/" target="_blank" rel="noopener noreferrer">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/linkedin-cards-dark.svg" />
+    <img alt="LinkedIn articles" src="./assets/linkedin-cards-light.svg" />
+  </picture>
+</a>
 <!-- LINKEDIN-CARDS-END -->
 
 <p align="right">
