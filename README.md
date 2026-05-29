@@ -58,35 +58,14 @@ The goal isn't "more data." It's **fewer surprises**, **faster decisions**, and 
 
 ### 📰 Featured Writing
 
-<!-- BEGIN ARTICLE-CARDS -->
-<a href="https://www.linkedin.com/pulse/system-aoteroa-infrastructure-guillaume-clin-mqlsc/?trackingId=YLmIjVV1SFqSSy7phUCobA%3D%3D"><img src="./assets/A%20system%20of%20System%20for%20Aoteroa%20by%20Guillaume%20Clin.jpg" width="250" alt="A System of System for Aoteroa Infrastructure" title="A System of System for Aoteroa Infrastructure"/></a>
-<a href="https://www.linkedin.com/pulse/connected-data-civil-construction-examination-cde-ecosystems-clin-xthyc/?trackingId=YLmIjVV1SFqSSy7phUCobA%3D%3D"><img src="./assets/Connected%20Data%20in%20Civil%20Construction%20An%20Examination%20of%20CDE%20Connected%20Environments%20Ecosystems%20and%20Trimble%20s%20Role%20by%20Guillaume%20Clin.png" width="250" alt="Connected Data in Civil Construction" title="Connected Data in Civil Construction: An Examination of CDE, Connected Environments & Trimble's Role"/></a>
-<a href="https://www.linkedin.com/pulse/civil-construction-terrain-aggregation-surface-data-connected-clin-oebtc/?trackingId=YLmIjVV1SFqSSy7phUCobA%3D%3D"><img src="./assets/Civil%20Construction%20Terrain%20and%20the%20Aggregation%20of%20Surface%20Data%20for%20a%20Connected%20Ecosystem%20by%20Guillaume%20Clin.jpg" width="250" alt="Civil Construction Terrain and the Aggregation of Surface Data" title="Civil Construction Terrain and the Aggregation of Surface Data for a Connected Ecosystem"/></a>
-<!-- END ARTICLE-CARDS -->
-
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <b><a href="https://www.linkedin.com/pulse/system-aoteroa-infrastructure-guillaume-clin-mqlsc/?trackingId=YLmIjVV1SFqSSy7phUCobA%3D%3D">A "System of System" for Aoteroa Infrastructure</a></b><br/>
-      <sub>Te Waihanga | The New Zealand Infrastructure Commission recently explored what a federated infrastructure system could look like.</sub><br/>
-      <sub>by Guillaume Clin &nbsp;·&nbsp; 6 min read</sub>
-    </td>
-    <td valign="top" width="33%">
-      <b><a href="https://www.linkedin.com/pulse/connected-data-civil-construction-examination-cde-ecosystems-clin-xthyc/?trackingId=YLmIjVV1SFqSSy7phUCobA%3D%3D">Connected Data in Civil Construction: An Examination of CDE, Connected Environments & Trimble's Role</a></b><br/>
-      <sub>The civil construction industry operates within an increasingly connected ecosystem of data, tools, and platforms.</sub><br/>
-      <sub>by Guillaume Clin &nbsp;·&nbsp; 13 min read</sub>
-    </td>
-    <td valign="top" width="33%">
-      <b><a href="https://www.linkedin.com/pulse/civil-construction-terrain-aggregation-surface-data-connected-clin-oebtc/?trackingId=YLmIjVV1SFqSSy7phUCobA%3D%3D">Civil Construction Terrain and the Aggregation of Surface Data for a Connected Ecosystem</a></b><br/>
-      <sub>The civil construction industry operates within an increasingly complex landscape of geospatial and terrain data.</sub><br/>
-      <sub>by Guillaume Clin &nbsp;·&nbsp; 10 min read</sub>
-    </td>
-  </tr>
-</table>
+<!-- LINKEDIN-CARDS-START -->
+<!-- LINKEDIN-CARDS-END -->
 
 <p align="right">
   <a href="https://www.linkedin.com/in/guillaume-clin/recent-activity/articles/"><sub>→ See all articles on LinkedIn</sub></a>
 </p>
+
+### 🎬 Latest on YouTube
 
 <!-- BEGIN YOUTUBE-CARDS -->
 <!-- END YOUTUBE-CARDS -->

@@ -1,0 +1,21 @@
+name: Update LinkedIn article cards
+on:
+  schedule:
+    # Runs daily at 6am UTC
+    - cron: "0 6 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: GclinTrimble/github-readme-Linkedin-Article-cards@main
+        with:
+          config_file: cards.config.json
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update LinkedIn article cards"
