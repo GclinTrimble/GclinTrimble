@@ -74,9 +74,7 @@ The goal isn't "more data." It's **fewer surprises**, **faster decisions**, and 
 ### 🎬 Latest on YouTube
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Trimble Worksmanager Pro - insight from the 4D ortho-image](https://ytcards.demolab.com/?id=oII-NrpN0Cg&title=Trimble+Worksmanager+Pro+-+insight+from+the+4D+ortho-image&lang=en&timestamp=1767037385&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "Trimble Worksmanager Pro - insight from the 4D ortho-image")](https://www.youtube.com/watch?v=oII-NrpN0Cg)
-[![Trimble Landfill Compaction 3 of 3](https://ytcards.demolab.com/?id=4LIKYJexFlg&title=Trimble+Landfill+Compaction+3+of+3&lang=en&timestamp=1758233477&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "Trimble Landfill Compaction 3 of 3")](https://www.youtube.com/watch?v=4LIKYJexFlg)
-[![Trimble Landfill Compaction 2 of 3](https://ytcards.demolab.com/?id=JpPM91pYD_s&title=Trimble+Landfill+Compaction+2+of+3&lang=en&timestamp=1758233349&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "Trimble Landfill Compaction 2 of 3")](https://www.youtube.com/watch?v=JpPM91pYD_s)
+
 <!-- END YOUTUBE-CARDS -->
 
 <p align="right">
