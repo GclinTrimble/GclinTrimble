@@ -74,9 +74,7 @@ The goal isn't "more data." It's **fewer surprises**, **faster decisions**, and 
 ### 🎬 Latest on YouTube
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Trimble WorksManager - Point Cloud Support (FR)](https://ytcards.demolab.com/?id=E3_rJTjmzv0&title=Trimble+WorksManager+-+Point+Cloud+Support+%28FR%29&lang=en&timestamp=1782205439&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "Trimble WorksManager - Point Cloud Support (FR)")](https://www.youtube.com/watch?v=E3_rJTjmzv0)
-[![Trimble Worksmanager Pro - insight from the 4D ortho-image](https://ytcards.demolab.com/?id=oII-NrpN0Cg&title=Trimble+Worksmanager+Pro+-+insight+from+the+4D+ortho-image&lang=en&timestamp=1767037385&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "Trimble Worksmanager Pro - insight from the 4D ortho-image")](https://www.youtube.com/watch?v=oII-NrpN0Cg)
-[![Trimble Landfill Compaction 3 of 3](https://ytcards.demolab.com/?id=4LIKYJexFlg&title=Trimble+Landfill+Compaction+3+of+3&lang=en&timestamp=1758233477&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "Trimble Landfill Compaction 3 of 3")](https://www.youtube.com/watch?v=4LIKYJexFlg)
+
 <!-- END YOUTUBE-CARDS -->
 
 <p align="right">
