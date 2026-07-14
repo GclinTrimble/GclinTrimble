@@ -74,7 +74,9 @@ The goal isn't "more data." It's **fewer surprises**, **faster decisions**, and 
 ### 🎬 Latest on YouTube
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Linear Measurement [EN] | Trimble WorksManager Feature Demo](https://ytcards.demolab.com/?id=B4BXjjnu-Vo&title=Linear+Measurement+%5BEN%5D+%7C+Trimble+WorksManager+Feature+Demo&lang=en&timestamp=1784010633&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "Linear Measurement [EN] | Trimble WorksManager Feature Demo")](https://www.youtube.com/watch?v=B4BXjjnu-Vo)
+[![Measure Volumetrique [FR] | Trimble WorksManager Démo des fonctionnalités](https://ytcards.demolab.com/?id=SELZN5TJkJk&title=Measure+Volumetrique+%5BFR%5D+%7C+Trimble+WorksManager+D%C3%A9mo+des+fonctionnalit%C3%A9s&lang=en&timestamp=1784010619&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "Measure Volumetrique [FR] | Trimble WorksManager Démo des fonctionnalités")](https://www.youtube.com/watch?v=SELZN5TJkJk)
+[![Measure Lineaire [FR] | Trimble WorksManager Démo des fonctionnalités](https://ytcards.demolab.com/?id=AmDWYPJyXCQ&title=Measure+Lineaire+%5BFR%5D+%7C+Trimble+WorksManager+D%C3%A9mo+des+fonctionnalit%C3%A9s&lang=en&timestamp=1784010618&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "Measure Lineaire [FR] | Trimble WorksManager Démo des fonctionnalités")](https://www.youtube.com/watch?v=AmDWYPJyXCQ)
 <!-- END YOUTUBE-CARDS -->
 
 <p align="right">
