@@ -74,9 +74,7 @@ The goal isn't "more data." It's **fewer surprises**, **faster decisions**, and 
 ### 🎬 Latest on YouTube
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Measurement de point [FR] | Trimble Worksmanager Demo funtionalite](https://ytcards.demolab.com/?id=Sqk8gA2H_4A&title=Measurement+de+point+%5BFR%5D+%7C+Trimble+Worksmanager+Demo+funtionalite&lang=en&timestamp=1783967432&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "Measurement de point [FR] | Trimble Worksmanager Demo funtionalite")](https://www.youtube.com/watch?v=Sqk8gA2H_4A)
-[![Area measurement [EN] - Trimble WorksManager Feature Demo](https://ytcards.demolab.com/?id=J4vlyuV9Zx0&title=Area+measurement+%5BEN%5D+-+Trimble+WorksManager+Feature+Demo&lang=en&timestamp=1783967411&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "Area measurement [EN] - Trimble WorksManager Feature Demo")](https://www.youtube.com/watch?v=J4vlyuV9Zx0)
-[![Measure de Superficie [FR] | Trimble WorksManager Démo des fonctionnalités](https://ytcards.demolab.com/?id=uLzg8PWnT-o&title=Measure+de+Superficie+%5BFR%5D+%7C+Trimble+WorksManager+D%C3%A9mo+des+fonctionnalit%C3%A9s&lang=en&timestamp=1783967408&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "Measure de Superficie [FR] | Trimble WorksManager Démo des fonctionnalités")](https://www.youtube.com/watch?v=uLzg8PWnT-o)
+
 <!-- END YOUTUBE-CARDS -->
 
 <p align="right">
