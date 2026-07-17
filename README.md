@@ -74,7 +74,9 @@ The goal isn't "more data." It's **fewer surprises**, **faster decisions**, and 
 ### 🎬 Latest on YouTube
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Nettoyage du Dessin [FR] | Trimble WorksManager Démo des fonctionnalités](https://ytcards.demolab.com/?id=zEJSeBx6auY&title=Nettoyage+du+Dessin+%5BFR%5D+%7C+Trimble+WorksManager+D%C3%A9mo+des+fonctionnalit%C3%A9s&lang=en&timestamp=1784162612&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "Nettoyage du Dessin [FR] | Trimble WorksManager Démo des fonctionnalités")](https://www.youtube.com/watch?v=zEJSeBx6auY)
+[![Drafting Cleanup [EN] | Trimble WorksManager Feature Demo](https://ytcards.demolab.com/?id=8bV9s-9NFCA&title=Drafting+Cleanup+%5BEN%5D+%7C+Trimble+WorksManager+Feature+Demo&lang=en&timestamp=1784162520&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "Drafting Cleanup [EN] | Trimble WorksManager Feature Demo")](https://www.youtube.com/watch?v=8bV9s-9NFCA)
+[![Drafting Linework [EN] | Trimble WorksManager Feature Demo](https://ytcards.demolab.com/?id=3k_3YpVtGf8&title=Drafting+Linework+%5BEN%5D+%7C+Trimble+WorksManager+Feature+Demo&lang=en&timestamp=1784162089&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "Drafting Linework [EN] | Trimble WorksManager Feature Demo")](https://www.youtube.com/watch?v=3k_3YpVtGf8)
 <!-- END YOUTUBE-CARDS -->
 
 <p align="right">
