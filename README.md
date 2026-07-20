@@ -74,9 +74,7 @@ The goal isn't "more data." It's **fewer surprises**, **faster decisions**, and 
 ### 🎬 Latest on YouTube
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Create and Edit Layers [EN] | Trimble WorksManager Feature Demo](https://ytcards.demolab.com/?id=xQs8dpaK4rQ&title=Create+and+Edit+Layers+%5BEN%5D+%7C+Trimble+WorksManager+Feature+Demo&lang=en&timestamp=1784515379&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "Create and Edit Layers [EN] | Trimble WorksManager Feature Demo")](https://www.youtube.com/shorts/xQs8dpaK4rQ)
-[![Créer et modifier des calques [FR] | Trimble WorksManager Démo des fonctionnalités](https://ytcards.demolab.com/?id=ztqC1glzEJQ&title=Cr%C3%A9er+et+modifier+des+calques+%5BFR%5D+%7C+Trimble+WorksManager+D%C3%A9mo+des+fonctionnalit%C3%A9s&lang=en&timestamp=1784514609&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "Créer et modifier des calques [FR] | Trimble WorksManager Démo des fonctionnalités")](https://www.youtube.com/watch?v=ztqC1glzEJQ)
-[![Create & Edit Layers [EN] | Trimble WorksManager Feature Demo](https://ytcards.demolab.com/?id=R0eMipwBEss&title=Create+%26+Edit+Layers+%5BEN%5D+%7C+Trimble+WorksManager+Feature+Demo&lang=en&timestamp=1784514472&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "Create & Edit Layers [EN] | Trimble WorksManager Feature Demo")](https://www.youtube.com/watch?v=R0eMipwBEss)
+
 <!-- END YOUTUBE-CARDS -->
 
 <p align="right">
