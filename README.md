@@ -74,7 +74,9 @@ The goal isn't "more data." It's **fewer surprises**, **faster decisions**, and 
 ### 🎬 Latest on YouTube
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Drafting Join and Split [EN] | Trimble WorksManager Feature Demo](https://ytcards.demolab.com/?id=JCbMw9_0pO4&title=Drafting+Join+and+Split+%5BEN%5D+%7C+Trimble+WorksManager+Feature+Demo&lang=en&timestamp=1784613538&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "Drafting Join and Split [EN] | Trimble WorksManager Feature Demo")](https://www.youtube.com/shorts/JCbMw9_0pO4)
+[![Joindre et Diviser des lignes [FR] | Trimble WorksManager Démo des fonctionnalités](https://ytcards.demolab.com/?id=GVqRLxSKzE4&title=Joindre+et+Diviser+des+lignes+%5BFR%5D+%7C+Trimble+WorksManager+D%C3%A9mo+des+fonctionnalit%C3%A9s&lang=en&timestamp=1784516467&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "Joindre et Diviser des lignes [FR] | Trimble WorksManager Démo des fonctionnalités")](https://www.youtube.com/watch?v=GVqRLxSKzE4)
+[![Join & Split lines [EN] | Trimble WorksManager Feature Demo](https://ytcards.demolab.com/?id=A9zVJsVSJ_Y&title=Join+%26+Split+lines+%5BEN%5D+%7C+Trimble+WorksManager+Feature+Demo&lang=en&timestamp=1784516336&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "Join & Split lines [EN] | Trimble WorksManager Feature Demo")](https://www.youtube.com/watch?v=A9zVJsVSJ_Y)
 <!-- END YOUTUBE-CARDS -->
 
 <p align="right">
