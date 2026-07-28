@@ -74,9 +74,7 @@ The goal isn't "more data." It's **fewer surprises**, **faster decisions**, and 
 ### 🎬 Latest on YouTube
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Area measurement [EN] | Trimble WorksManager Feature Demo](https://ytcards.demolab.com/?id=JQLdyish-yM&title=Area+measurement+%5BEN%5D+%7C+Trimble+WorksManager+Feature+Demo&lang=en&timestamp=1785146102&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "Area measurement [EN] | Trimble WorksManager Feature Demo")](https://www.youtube.com/shorts/JQLdyish-yM)
-[![Drafting Cleanup [EN] | Trimble WorksManager Feature Demo](https://ytcards.demolab.com/?id=vnLEV55976k&title=Drafting+Cleanup+%5BEN%5D+%7C+Trimble+WorksManager+Feature+Demo&lang=en&timestamp=1785054626&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "Drafting Cleanup [EN] | Trimble WorksManager Feature Demo")](https://www.youtube.com/shorts/vnLEV55976k)
-[![Drafting Edit Package [EN] | Trimble WorksManager Feature Demo](https://ytcards.demolab.com/?id=HJ-evY3kQK0&title=Drafting+Edit+Package+%5BEN%5D+%7C+Trimble+WorksManager+Feature+Demo&lang=en&timestamp=1784789133&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "Drafting Edit Package [EN] | Trimble WorksManager Feature Demo")](https://www.youtube.com/shorts/HJ-evY3kQK0)
+
 <!-- END YOUTUBE-CARDS -->
 
 <p align="right">
