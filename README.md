@@ -74,9 +74,9 @@ The goal isn't "more data." It's **fewer surprises**, **faster decisions**, and 
 ### 🎬 Latest on YouTube
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Drafting Linework [EN] | Trimble WorksManager Feature Demo](https://ytcards.demolab.com/?id=PQNjnCd_oHg&title=Drafting+Linework+%5BEN%5D+%7C+Trimble+WorksManager+Feature+Demo&lang=en&timestamp=1785229236&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "Drafting Linework [EN] | Trimble WorksManager Feature Demo")](https://www.youtube.com/shorts/PQNjnCd_oHg)
-[![Area measurement [EN] | Trimble WorksManager Feature Demo](https://ytcards.demolab.com/?id=JQLdyish-yM&title=Area+measurement+%5BEN%5D+%7C+Trimble+WorksManager+Feature+Demo&lang=en&timestamp=1785146102&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "Area measurement [EN] | Trimble WorksManager Feature Demo")](https://www.youtube.com/shorts/JQLdyish-yM)
-[![Drafting Cleanup [EN] | Trimble WorksManager Feature Demo](https://ytcards.demolab.com/?id=vnLEV55976k&title=Drafting+Cleanup+%5BEN%5D+%7C+Trimble+WorksManager+Feature+Demo&lang=en&timestamp=1785054626&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "Drafting Cleanup [EN] | Trimble WorksManager Feature Demo")](https://www.youtube.com/shorts/vnLEV55976k)
+[![Cursor Best Practices - Fix well](https://ytcards.demolab.com/?id=VCy54vCiC-E&title=Cursor+Best+Practices+-+Fix+well&lang=en&timestamp=1785347943&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "Cursor Best Practices - Fix well")](https://www.youtube.com/watch?v=VCy54vCiC-E)
+[![Cursor - Model Cost](https://ytcards.demolab.com/?id=tj-7gWfjNic&title=Cursor+-+Model+Cost&lang=en&timestamp=1785347481&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "Cursor - Model Cost")](https://www.youtube.com/watch?v=tj-7gWfjNic)
+[![Cursor - Model Cost - 2](https://ytcards.demolab.com/?id=TT76SSgJxS0&title=Cursor+-+Model+Cost+-+2&lang=en&timestamp=1785347472&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "Cursor - Model Cost - 2")](https://www.youtube.com/watch?v=TT76SSgJxS0)
 <!-- END YOUTUBE-CARDS -->
 
 <p align="right">
