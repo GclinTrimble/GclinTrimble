@@ -74,9 +74,7 @@ The goal isn't "more data." It's **fewer surprises**, **faster decisions**, and 
 ### 🎬 Latest on YouTube
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Cursor Best Practice - for Product Manager](https://ytcards.demolab.com/?id=VV67EXkF8uE&title=Cursor+Best+Practice+-+for+Product+Manager&lang=en&timestamp=1785348940&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "Cursor Best Practice - for Product Manager")](https://www.youtube.com/watch?v=VV67EXkF8uE)
-[![Cursor Best Practices - Fix well](https://ytcards.demolab.com/?id=VCy54vCiC-E&title=Cursor+Best+Practices+-+Fix+well&lang=en&timestamp=1785347943&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "Cursor Best Practices - Fix well")](https://www.youtube.com/watch?v=VCy54vCiC-E)
-[![Cursor Best Practice - Model Cost](https://ytcards.demolab.com/?id=tj-7gWfjNic&title=Cursor+Best+Practice+-+Model+Cost&lang=en&timestamp=1785347481&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "Cursor Best Practice - Model Cost")](https://www.youtube.com/watch?v=tj-7gWfjNic)
+
 <!-- END YOUTUBE-CARDS -->
 
 <p align="right">
