@@ -74,9 +74,9 @@ The goal isn't "more data." It's **fewer surprises**, **faster decisions**, and 
 ### 🎬 Latest on YouTube
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Importer une surface relevée [FR] | Trimble WorksManager Démo des fonctionnalités](https://ytcards.demolab.com/?id=bthbvCLJWvA&title=Importer+une+surface+relev%C3%A9e+%5BFR%5D+%7C+Trimble+WorksManager+D%C3%A9mo+des+fonctionnalit%C3%A9s&lang=en&timestamp=1785871902&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "Importer une surface relevée [FR] | Trimble WorksManager Démo des fonctionnalités")](https://www.youtube.com/watch?v=bthbvCLJWvA)
 [![Import Surveyed Surface [EN] | Trimble WorksManager Feature Demo](https://ytcards.demolab.com/?id=FCwWoUJUGaY&title=Import+Surveyed+Surface+%5BEN%5D+%7C+Trimble+WorksManager+Feature+Demo&lang=en&timestamp=1785840011&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "Import Surveyed Surface [EN] | Trimble WorksManager Feature Demo")](https://www.youtube.com/shorts/FCwWoUJUGaY)
 [![Import Surveyed Surface [EN] | Trimble WorksManager Feature Demo](https://ytcards.demolab.com/?id=6Rk2MVDu6Gs&title=Import+Surveyed+Surface+%5BEN%5D+%7C+Trimble+WorksManager+Feature+Demo&lang=en&timestamp=1785839040&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "Import Surveyed Surface [EN] | Trimble WorksManager Feature Demo")](https://www.youtube.com/watch?v=6Rk2MVDu6Gs)
-[![Linear Measurement [EN] | Trimble WorksManager Feature Demo](https://ytcards.demolab.com/?id=mOeS-iZ7zi4&title=Linear+Measurement+%5BEN%5D+%7C+Trimble+WorksManager+Feature+Demo&lang=en&timestamp=1785562206&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "Linear Measurement [EN] | Trimble WorksManager Feature Demo")](https://www.youtube.com/shorts/mOeS-iZ7zi4)
 <!-- END YOUTUBE-CARDS -->
 
 <p align="right">
