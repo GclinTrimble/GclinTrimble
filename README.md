@@ -74,7 +74,9 @@ The goal isn't "more data." It's **fewer surprises**, **faster decisions**, and 
 ### 🎬 Latest on YouTube
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Create & Edit Layers [EN] | Trimble WorksManager Feature Demo #civilconstruction](https://ytcards.demolab.com/?id=yanQubIATZg&title=Create+%26+Edit+Layers+%5BEN%5D+%7C+Trimble+WorksManager+Feature+Demo+%23civilconstruction&lang=en&timestamp=1786756504&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "Create & Edit Layers [EN] | Trimble WorksManager Feature Demo #civilconstruction")](https://www.youtube.com/shorts/yanQubIATZg)
+[![Importer une surface relevée [FR] | Trimble WorksManager Démo des fonctionnalités](https://ytcards.demolab.com/?id=bthbvCLJWvA&title=Importer+une+surface+relev%C3%A9e+%5BFR%5D+%7C+Trimble+WorksManager+D%C3%A9mo+des+fonctionnalit%C3%A9s&lang=en&timestamp=1785871902&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "Importer une surface relevée [FR] | Trimble WorksManager Démo des fonctionnalités")](https://www.youtube.com/watch?v=bthbvCLJWvA)
+[![Import Surveyed Surface [EN] | Trimble WorksManager Feature Demo](https://ytcards.demolab.com/?id=FCwWoUJUGaY&title=Import+Surveyed+Surface+%5BEN%5D+%7C+Trimble+WorksManager+Feature+Demo&lang=en&timestamp=1785840011&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "Import Surveyed Surface [EN] | Trimble WorksManager Feature Demo")](https://www.youtube.com/shorts/FCwWoUJUGaY)
 <!-- END YOUTUBE-CARDS -->
 
 <p align="right">
