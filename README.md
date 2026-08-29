@@ -74,9 +74,7 @@ The goal isn't "more data." It's **fewer surprises**, **faster decisions**, and 
 ### 🎬 Latest on YouTube
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Drafting Cleanup [EN] | Trimble WorksManager Feature Demo](https://ytcards.demolab.com/?id=Zp8TYDgWeRU&title=Drafting+Cleanup+%5BEN%5D+%7C+Trimble+WorksManager+Feature+Demo&lang=en&timestamp=1787773536&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "Drafting Cleanup [EN] | Trimble WorksManager Feature Demo")](https://www.youtube.com/shorts/Zp8TYDgWeRU)
-[![Join & Split lines [EN] | Trimble WorksManager Feature Demo #civilconstruction](https://ytcards.demolab.com/?id=eksYtDIVOBg&title=Join+%26+Split+lines+%5BEN%5D+%7C+Trimble+WorksManager+Feature+Demo+%23civilconstruction&lang=en&timestamp=1787182229&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "Join & Split lines [EN] | Trimble WorksManager Feature Demo #civilconstruction")](https://www.youtube.com/shorts/eksYtDIVOBg)
-[![Create & Edit Layers [EN] | Trimble WorksManager Feature Demo #civilconstruction](https://ytcards.demolab.com/?id=yanQubIATZg&title=Create+%26+Edit+Layers+%5BEN%5D+%7C+Trimble+WorksManager+Feature+Demo+%23civilconstruction&lang=en&timestamp=1786756504&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "Create & Edit Layers [EN] | Trimble WorksManager Feature Demo #civilconstruction")](https://www.youtube.com/shorts/yanQubIATZg)
+
 <!-- END YOUTUBE-CARDS -->
 
 <p align="right">
