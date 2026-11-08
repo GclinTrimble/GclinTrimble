@@ -74,9 +74,9 @@ The goal isn't "more data." It's **fewer surprises**, **faster decisions**, and 
 ### 🎬 Latest on YouTube
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Trimble Dimensions 2026 - Launch](https://ytcards.demolab.com/?id=cAUhr1-5uQA&title=Trimble+Dimensions+2026+-+Launch&lang=en&timestamp=1794163052&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "Trimble Dimensions 2026 - Launch")](https://www.youtube.com/shorts/cAUhr1-5uQA)
+[![[] | Trimble WorksManager Feature Demo](https://ytcards.demolab.com/?id=_VE29kdwhgs&title=%5B%5D+%7C+Trimble+WorksManager+Feature+Demo&lang=en&timestamp=1794160834&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "[] | Trimble WorksManager Feature Demo")](https://www.youtube.com/shorts/_VE29kdwhgs)
 [![WorksManager Drone upload and processing](https://ytcards.demolab.com/?id=Kmnq6mnaQ3w&title=WorksManager+Drone+upload+and+processing&lang=en&timestamp=1794110439&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "WorksManager Drone upload and processing")](https://www.youtube.com/shorts/Kmnq6mnaQ3w)
-[![Trimble WorksManager Drone photogrammetry](https://ytcards.demolab.com/?id=nT3zbDhjAFY&title=Trimble+WorksManager+Drone+photogrammetry&lang=en&timestamp=1794084055&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "Trimble WorksManager Drone photogrammetry")](https://www.youtube.com/shorts/nT3zbDhjAFY)
-[![WorksManager publish design to machines: Drafting Space part 7 of 7](https://ytcards.demolab.com/?id=UAIy3gOl1so&title=WorksManager+publish+design+to+machines%3A+Drafting+Space+part+7+of+7&lang=en&timestamp=1793763409&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "WorksManager publish design to machines: Drafting Space part 7 of 7")](https://www.youtube.com/watch?v=UAIy3gOl1so)
 <!-- END YOUTUBE-CARDS -->
 
 <p align="right">
