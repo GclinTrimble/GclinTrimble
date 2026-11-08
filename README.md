@@ -74,9 +74,9 @@ The goal isn't "more data." It's **fewer surprises**, **faster decisions**, and 
 ### 🎬 Latest on YouTube
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![WorksManager Drone upload and processing](https://ytcards.demolab.com/?id=Kmnq6mnaQ3w&title=WorksManager+Drone+upload+and+processing&lang=en&timestamp=1794110439&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "WorksManager Drone upload and processing")](https://www.youtube.com/shorts/Kmnq6mnaQ3w)
+[![Trimble WorksManager Drone photogrammetry](https://ytcards.demolab.com/?id=nT3zbDhjAFY&title=Trimble+WorksManager+Drone+photogrammetry&lang=en&timestamp=1794084055&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "Trimble WorksManager Drone photogrammetry")](https://www.youtube.com/shorts/nT3zbDhjAFY)
 [![WorksManager publish design to machines: Drafting Space part 7 of 7](https://ytcards.demolab.com/?id=UAIy3gOl1so&title=WorksManager+publish+design+to+machines%3A+Drafting+Space+part+7+of+7&lang=en&timestamp=1793763409&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "WorksManager publish design to machines: Drafting Space part 7 of 7")](https://www.youtube.com/watch?v=UAIy3gOl1so)
-[![WorksManager Drafting Space drafting tools: offset, move, join (part 6/7)](https://ytcards.demolab.com/?id=RySIR1CKRgY&title=WorksManager+Drafting+Space+drafting+tools%3A+offset%2C+move%2C+join+%28part+6%2F7%29&lang=en&timestamp=1793763212&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "WorksManager Drafting Space drafting tools: offset, move, join (part 6/7)")](https://www.youtube.com/watch?v=RySIR1CKRgY)
-[![WorksManager 3D terrain drafting: Drafting Space tutorial (part 5/7)](https://ytcards.demolab.com/?id=EKSIYPgF_CM&title=WorksManager+3D+terrain+drafting%3A+Drafting+Space+tutorial+%28part+5%2F7%29&lang=en&timestamp=1793762953&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "WorksManager 3D terrain drafting: Drafting Space tutorial (part 5/7)")](https://www.youtube.com/watch?v=EKSIYPgF_CM)
 <!-- END YOUTUBE-CARDS -->
 
 <p align="right">
