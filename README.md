@@ -74,9 +74,9 @@ The goal isn't "more data." It's **fewer surprises**, **faster decisions**, and 
 ### 🎬 Latest on YouTube
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Trimble Dimensions 2026 - Launch](https://ytcards.demolab.com/?id=cAUhr1-5uQA&title=Trimble+Dimensions+2026+-+Launch&lang=en&timestamp=1794163052&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "Trimble Dimensions 2026 - Launch")](https://www.youtube.com/shorts/cAUhr1-5uQA)
-[![[] | Trimble WorksManager Feature Demo](https://ytcards.demolab.com/?id=_VE29kdwhgs&title=%5B%5D+%7C+Trimble+WorksManager+Feature+Demo&lang=en&timestamp=1794160834&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "[] | Trimble WorksManager Feature Demo")](https://www.youtube.com/shorts/_VE29kdwhgs)
-[![WorksManager Drone upload and processing](https://ytcards.demolab.com/?id=Kmnq6mnaQ3w&title=WorksManager+Drone+upload+and+processing&lang=en&timestamp=1794110439&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "WorksManager Drone upload and processing")](https://www.youtube.com/shorts/Kmnq6mnaQ3w)
+[![Nombre de passes WorksManager : contrôlez le compactage en 3D](https://ytcards.demolab.com/?id=ZGGwLxKsH0c&title=Nombre+de+passes+WorksManager+%3A+contr%C3%B4lez+le+compactage+en+3D&lang=en&timestamp=1795748257&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "Nombre de passes WorksManager : contrôlez le compactage en 3D")](https://www.youtube.com/watch?v=ZGGwLxKsH0c)
+[![WorksManager Surveyed Surface in Timeline filter](https://ytcards.demolab.com/?id=IciRHbZ6AxQ&title=WorksManager+Surveyed+Surface+in+Timeline+filter&lang=en&timestamp=1795745954&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "WorksManager Surveyed Surface in Timeline filter")](https://www.youtube.com/watch?v=IciRHbZ6AxQ)
+[![WorksManager pass count: check compaction in the 3D viewer [EN]](https://ytcards.demolab.com/?id=rUdNMf4tl9Q&title=WorksManager+pass+count%3A+check+compaction+in+the+3D+viewer+%5BEN%5D&lang=en&timestamp=1795739589&background_color=%230B2545&title_color=%23F2F8FF&stats_color=%238ECAE6&max_title_lines=2&width=250&border_radius=5 "WorksManager pass count: check compaction in the 3D viewer [EN]")](https://www.youtube.com/watch?v=rUdNMf4tl9Q)
 <!-- END YOUTUBE-CARDS -->
 
 <p align="right">
